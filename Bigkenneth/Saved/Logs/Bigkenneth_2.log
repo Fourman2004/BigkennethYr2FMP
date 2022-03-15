@@ -1,0 +1,1452 @@
+﻿Log file open, 03/15/22 15:13:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Bigkenneth
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.457893
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.15-15.13.46:711][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.15-15.13.46:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:712][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-15.13.46:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-15.13.46:718][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-15.13.46:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.15-15.13.46:718][  0]LogHAL: Display: Platform has ~ 16 GB [17125564416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.15-15.13.46:718][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-15.13.46:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-15.13.46:719][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.15-15.13.46:720][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.15-15.13.46:720][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.15-15.13.46:720][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.15-15.13.46:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Engine.ini]
+[2022.03.15-15.13.46:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Config/Windows/Editor.ini]
+[2022.03.15-15.13.46:720][  0]LogInit: Computer: A22807X
+[2022.03.15-15.13.46:720][  0]LogInit: User: aa05253299
+[2022.03.15-15.13.46:720][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.15-15.13.46:720][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.15-15.13.46:720][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.15-15.13.46:720][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.15-15.13.46:720][  0]LogMemory: Process Physical Memory: 141.81 MB used, 141.81 MB peak
+[2022.03.15-15.13.46:721][  0]LogMemory: Process Virtual Memory: 127.05 MB used, 127.05 MB peak
+[2022.03.15-15.13.46:721][  0]LogMemory: Physical Memory: 7525.24 MB used,  8806.97 MB free, 16332.21 MB total
+[2022.03.15-15.13.46:721][  0]LogMemory: Virtual Memory: 134208912.00 MB used,  8818.88 MB free, 134217728.00 MB total
+[2022.03.15-15.13.46:726][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.15-15.13.46:862][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.15-15.13.46:863][  0]LogInit: Using OS detected language (en-US).
+[2022.03.15-15.13.46:863][  0]LogInit: Using OS detected locale (en-GB).
+[2022.03.15-15.13.46:865][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.15-15.13.47:033][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.15-15.13.47:048][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.15-15.13.47:095][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.15-15.13.47:095][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.15-15.13.47:458][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.15-15.13.47:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.15-15.13.47:461][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.15-15.13.47:461][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.15-15.13.47:461][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.15-15.13.47:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2022.03.15-15.13.47:528][  0]LogD3D11RHI:       5991/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.15-15.13.47:531][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.15-15.13.47:531][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.15-15.13.47:531][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.15-15.13.47:540][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.15-15.13.47:540][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.15-15.13.47:540][  0]LogWindows: EnumDisplayDevices:
+[2022.03.15-15.13.47:541][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1)
+[2022.03.15-15.13.47:541][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2022.03.15-15.13.47:541][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2022.03.15-15.13.47:541][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2022.03.15-15.13.47:541][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.15-15.13.47:541][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2022.03.15-15.13.47:541][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2022.03.15-15.13.47:541][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2022.03.15-15.13.47:541][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.03.15-15.13.47:583][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.15-15.13.47:583][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.15-15.13.47:583][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.15-15.13.47:596][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.15-15.13.47:666][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.15-15.13.48:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.15-15.13.48:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.15-15.13.48:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.15-15.13.48:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.15-15.13.48:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.15-15.13.48:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.15-15.13.48:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.15-15.13.48:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.15-15.13.48:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.15-15.13.48:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.15-15.13.48:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.15-15.13.48:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.15-15.13.48:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.15-15.13.48:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.15-15.13.48:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.15-15.13.48:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.15-15.13.48:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.15-15.13.48:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.15-15.13.48:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.15-15.13.48:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.15-15.13.48:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.15-15.13.48:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.15-15.13.48:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.15-15.13.48:607][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.15-15.13.48:668][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.15-15.13.48:836][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.15-15.13.49:119][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.15-15.13.49:119][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Intermediate/Shaders/WorkingDirectory/16200/).
+[2022.03.15-15.13.49:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aa05253299/AppData/Local/Temp/UnrealShaderWorkingDir/AFB273F44A809DBDF549F9B962957105/'.
+[2022.03.15-15.13.49:119][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.15-15.13.49:119][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.15-15.13.49:119][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.15-15.13.49:931][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.15-15.13.49:987][  0]LogDerivedDataCache: Loaded boot cache 0.06s 97MB C:/Users/aa05253299/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.15-15.13.49:987][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aa05253299/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.15-15.13.49:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.15-15.13.49:988][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.15-15.13.49:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-15.13.49:988][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.15-15.13.50:003][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.15-15.13.50:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-15.13.50:003][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.15-15.13.50:013][  0]LogDerivedDataCache: Speed tests for C:/Users/aa05253299/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.15-15.13.50:013][  0]LogDerivedDataCache: Display: Performance to C:/Users/aa05253299/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=321.17MBs, RandomWriteSpeed=127.99MBs. Assigned SpeedClass 'Local'
+[2022.03.15-15.13.50:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aa05253299/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.15-15.13.50:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.15-15.13.50:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.15-15.13.50:056][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.15-15.13.50:058][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.15-15.13.50:118][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.03.15-15.13.50:343][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-15.13.50:343][  0]LogInit: Active device profile: [0000029CBDC67800][0000029CB055B1C0 49] Windows
+[2022.03.15-15.13.50:343][  0]LogInit: Profiles: [0000029CBDC67800][0000029CB055B1C0 49] Windows, [0000029CBDC24900][0000029CBB5C1340 49] WindowsNoEditor, [0000029CBDC64A00][0000029CBB5C54C0 49] WindowsServer, [0000029CBDC27100][0000029CBB5C9640 49] WindowsClient, [0000029CBDC67000][0000029CB06DF7C0 49] IOS, [0000029CBDC25200][0000029CB06E3940 49] iPadAir, [0000029CBDC65100][0000029CB06E7AC0 49] iPadAir2, [0000029CBDBE0200][0000029CB06EE200 49] IPadPro, [0000029CBDBCFF00][0000029CB06EA240 49] iPadAir3, [0000029CBDC66C00][0000029CB06F23C0 49] iPadAir4, [0000029CBDBCCF00][0000029CB063E540 49] iPadMini2, [0000029CBDC65400][0000029CB06426C0 49] iPadMini3, [0000029CBDBCEC00][0000029CB0646840 49] iPadMini4, [0000029CBDC66500][0000029CB064A9C0 49] iPadMini5, [0000029CBDC26B00][0000029CBB5BCC40 49] iPhone6, [0000029CBDC26A00][0000029CB064EC80 49] iPodTouch6, [0000029CBDBCD100][0000029CB0656EC0 49] iPhone7, [0000029CBDBCD200][0000029CB0652F00 49] iPodTouch7, [0000029CBDC27800][0000029CB065F080 49] iPhone5S, [0000029CBDBCC300][0000029CB0663200 49] iPhone6Plus, [0000029CBDC25F00][0000029CB0667380 49] iPhone6S, [0000029CBDBCF600][0000029CB066B500 49] iPhone6SPlus, [0000029CBDC25100][0000029CB066F680 49] iPhone7Plus, [0000029CBDBCFD00][0000029CB0673800 49] iPhoneSE, [0000029CBDC25800][0000029CB0677980 49] iPhone8, [0000029CBDBCEA00][0000029CB0B43B00 49] iPhone8Plus, [0000029CBDC26700][0000029CB0B46100 49] iPhoneX, [0000029CBDBCD000][0000029CB0B4A280 49] iPhoneXS, [0000029CBDC27200][0000029CB0B4E400 49] iPhoneXSMax, [0000029CBDBCF500][0000029CB0B52580 49] iPhoneXR, [0000029CBDC24400][0000029CB0B56700 49] iPhone11, [0000029CBDBCE100][0000029CB0B5A880 49] iPhone11Pro, [0000029CBDC24600][0000029CB0B5EA00 49] iPhone11ProMax, [0000029CBDBCFE00][0000029CB0B62B80 49] iPhoneSE2, [0000029CBDC24A00][0000029CB0B66D00 49] iPhone12Mini, [0000029CBDBCED00][0000029CB065AE40 49] iPhone12, [0000029CBDC25700][0000029CB0B6AF80 49] iPhone12Pro, [0000029CBDBCD400][0000029CB0B6F0C0 49] iPhone12ProMax, [0000029CBDC25300][0000029CB0B77240 49] iPadPro105, [0000029CBDBCE300][0000029CB0B7B3C0 49] iPadPro129, [0000029CBDC25900][0000029CB0B7F540 49] iPadPro97, [0000029CBDBCDE00][0000029CBBA6B6C0 49] iPadPro2_129, [0000029CBDC26D00][0000029CBBA6F840 49] iPad5, [0000029CBDBCD600][0000029CBBA739C0 49] iPad6, [0000029CBDC25A00][0000029CBBA77B40 49] iPad7, [0000029CBDBCD700][0000029CBBA7A140 49] iPad8, [0000029CBDC26100][0000029CBBA7E2C0 49] iPadPro11, [0000029CBDBCD900][0000029CBBA82440 49] iPadPro2_11, [0000029CBDC27B00][0000029CBBA865C0 49] iPadPro3_129, [0000029CBDBCDD00][0000029CBBA8A740 49] iPadPro4_129, [0000029CBDC27700][0000029CBBA8E8C0 49] AppleTV, [0000029CBDBCE900][0000029CBBA92A40 49] AppleTV4K, [0000029CBDC26200][0000029CBBA96BC0 49] TVOS, [0000029CBDBCE400][0000029CBBA9AD40 49] Mac, [0000029CBDC26800][0000029CBBA9EEC0 49] MacClient, [0000029CBDBCC800][0000029CB0B73000 49] MacNoEditor, [0000029CBDC27E00][0000029CBBAA3140 49] MacServer, [0000029CBDBCF100][0000029CBBAA7280 49] Linux, [0000029CBDC25D00][0000029CBBAAB3C0 49] LinuxAArch64, [0000029CBDBCC100][0000029CBBAB3540 49] LinuxNoEditor, [0000029CBDCADD00][0000029CBBAB76C0 49] LinuxAArch64NoEditor, [0000029CBDBE3800][0000029CBBABB840 49] LinuxClient, [0000029CBDCAD600][0000029CBBABF9C0 49] LinuxAArch64Client, [0000029CBDBE0600][0000029CBBAC3B40 49] LinuxServer, [0000029CBDCAE000][0000029CBBAC6140 49] LinuxAArch64Server, [0000029CBDBE0F00][0000029CBBACA2C0 49] Android, [0000029CBDCAC300][0000029CBBACE440 49] Android_Low, [0000029CBDBE2A00][0000029CBBAD25C0 49] Android_Mid, [0000029CBDCAD400][0000029CBBAD6740 49] Android_High, [0000029CBDBE1A00][0000029CBBADA8C0 49] Android_Default, [0000029CBDCAD000][0000029CBBADEA40 49] Android_Adreno4xx, [0000029CBDBE0D00][0000029CBBAE2BC0 49] Android_Adreno5xx_Low, [0000029CBDCAD100][0000029CBBAE6D40 49] Android_Adreno5xx, [0000029CBDBE1800][0000029CBBAEAEC0 49] Android_Adreno6xx, [0000029CBDCAC900][0000029CBBAEF040 49] Android_Adreno6xx_Vulkan, [0000029CBDBE3000][0000029CBBAAF180 49] Android_Mali_T6xx, [0000029CBDCAE100][0000029CBBAF32C0 49] Android_Mali_T7xx, [0000029CBDBE2100][0000029CBBAF7400 49] Android_Mali_T8xx, [0000029CBDCAC500][0000029CBBAFB540 49] Android_Mali_G71, [0000029CBDBE3A00][0000029CBBB036C0 49] Android_Mali_G72, [0000029CBDCAD200][0000029CBBB07840 49] Android_Mali_G72_Vulkan, [0000029CBDBE1D00][0000029CBBB0B9C0 49] Android_Mali_G76, [0000029CBDCACE00][0000029CBBB0FB40 49] Android_Mali_G76_Vulkan, [0000029CBDBE0A00][0000029CBBB12140 49] Android_Mali_G77, [0000029CBDBCF000][0000029CBBB162C0 49] Android_Mali_G77_Vulkan, [0000029CBDC25500][0000029CBBB1A440 49] Android_Mali_G78, [0000029CBDBCCA00][0000029CBEC405C0 49] Android_Mali_G78_Vulkan, [0000029CBDC24E00][0000029CBEC44740 49] Android_Mali_G710, [0000029CBDBCC700][0000029CBEC488C0 49] Android_Mali_G710_Vulkan, [0000029CBDC24F00][0000029CBEC4CA40 49] Android_Vulkan_SM5, [0000029CBDBCEB00][0000029CBEC50BC0 49] Android_PowerVR_G6xxx, [0000029CBDC25400][0000029CBEC54D40 49] Android_PowerVR_GT7xxx, [0000029CBDBCE500][0000029CBEC58EC0 49] Android_PowerVR_GE8xxx, [0000029CBDC26600][0000029CBEC5D040 49] Android_PowerVR_GM9xxx, [0000029CBDBCCD00][0000029CBEC611C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000029CBDC27A00][0000029CBEC65340 49] Android_TegraK1, [0000029CBDCAE400][0000029CBBAFF480 49] Android_Unknown_Vulkan, [0000029CBDC24100][0000029CBEC695C0 49] Lumin, [0000029CBDCAC700][0000029CBEC6D700 49] Lumin_Desktop, [0000029CBDC26400][0000029CBEC75880 49] HoloLens, 
+[2022.03.15-15.13.50:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.15-15.13.50:648][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.15-15.13.50:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.15-15.13.50:648][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.15-15.13.50:648][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.15-15.13.50:676][  0]LogNetVersion: Bigkenneth 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1549469159)
+[2022.03.15-15.13.51:216][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.15-15.13.51:277][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.15-15.13.51:283][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.15-15.13.51:283][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.03.15-15.13.51:283][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.15-15.13.52:466][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C1447017427FFFCDA0B0F59D17A42678 | Instance: BE5B46764894C9446DFC0BAFAF89AB2C (A22807X-16200).
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.03.15-15.13.52:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.03.15-15.13.52:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.03.15-15.13.52:654][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.13.52:654][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.13.52:730][  0]LogPython: Using Python 3.7.7
+[2022.03.15-15.13.53:739][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.15-15.13.53:756][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.15-15.13.54:931][  0]SourceControl: Source control is disabled
+[2022.03.15-15.13.55:809][  0]LogUProjectInfo: Found projects:
+[2022.03.15-15.13.56:718][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.15-15.13.56:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.15-15.13.57:040][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-15.13.57:040][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-15.13.57:400][  0]LogCollectionManager: Loaded 0 collections in 0.001178 seconds
+[2022.03.15-15.13.57:505][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Collections/' took 0.00s
+[2022.03.15-15.13.57:505][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/Developers/aa05253299/Collections/' took 0.00s
+[2022.03.15-15.13.57:505][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/Collections/' took 0.00s
+[2022.03.15-15.13.57:505][  0]LogOcInput: OculusInput pre-init called
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.03.15-15.13.57:793][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.03.15-15.13.57:793][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.03.15-15.13.57:821][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.13.57:821][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.13.57:934][  0]LogEngine: Initializing Engine...
+[2022.03.15-15.13.57:941][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.15-15.13.57:941][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.15-15.13.57:941][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.15-15.13.57:942][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.15-15.13.58:082][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.15-15.13.58:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.15-15.13.58:126][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.15-15.13.58:137][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.15-15.13.58:138][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.15-15.13.58:138][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.15-15.13.58:138][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-15.13.58:138][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-15.13.58:138][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-15.13.58:139][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-15.13.58:139][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-15.13.58:139][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-15.13.58:139][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-15.13.58:147][  0]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.15-15.13.58:150][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-15.13.58:155][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-15.13.58:155][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-15.13.58:156][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-15.13.58:156][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-15.13.58:156][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-15.13.58:157][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-15.13.58:157][  0]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.15-15.13.58:157][  0]LogInit: FAudioDevice initialized.
+[2022.03.15-15.13.58:158][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.15-15.13.58:158][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.15-15.13.58:355][  0]LogDerivedDataCache: Saved boot cache 0.20s 95MB C:/Users/aa05253299/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.15-15.13.58:355][  0]LogInit: Texture streaming: Enabled
+[2022.03.15-15.13.58:392][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2022.03.15-15.13.58:431][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.15-15.13.58:431][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.15-15.13.58:439][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.15-15.13.58:550][  0]LogInit: Transaction tracking system initialized
+[2022.03.15-15.13.58:722][  0]BlueprintLog: New page: Editor Load
+[2022.03.15-15.13.59:130][  0]LocalizationService: Localization service is disabled
+[2022.03.15-15.13.59:260][  0]TimingProfiler: Initialize
+[2022.03.15-15.13.59:260][  0]TimingProfiler: OnSessionChanged
+[2022.03.15-15.13.59:260][  0]LoadingProfiler: Initialize
+[2022.03.15-15.13.59:261][  0]LoadingProfiler: OnSessionChanged
+[2022.03.15-15.13.59:261][  0]NetworkingProfiler: Initialize
+[2022.03.15-15.13.59:261][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.15-15.13.59:261][  0]MemoryProfiler: Initialize
+[2022.03.15-15.13.59:261][  0]MemoryProfiler: OnSessionChanged
+[2022.03.15-15.13.59:628][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.15-15.13.59:628][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.15-15.14.00:088][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/' took 0.00s
+[2022.03.15-15.14.00:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.03.15-15.14.00:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.03.15-15.14.00:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.03.15-15.14.00:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.03.15-15.14.00:680][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.14.00:680][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.03.15-15.14.00:680][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.15-15.14.00:686][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.423
+[2022.03.15-15.14.00:686][  0]Cmd: MAP LOAD FILE="../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-15.14.00:687][  0]LightingResults: New page: Lighting Build
+[2022.03.15-15.14.00:720][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.14.00:721][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.14.00:721][  0]MapCheck: New page: Map Check
+[2022.03.15-15.14.00:721][  0]LightingResults: New page: Lighting Build
+[2022.03.15-15.14.00:737][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-15.14.00:747][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.03.15-15.14.01:061][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2022.03.15-15.14.01:062][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.15-15.14.01:068][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-15.14.01:076][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.15-15.14.01:076][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-15.14.01:076][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2022.03.15-15.14.01:076][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.390
+[2022.03.15-15.14.01:078][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.815
+[2022.03.15-15.14.01:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.14.01:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.14.01:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.14.01:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.14.01:250][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3822 classes and 928 folders.
+[2022.03.15-15.14.01:253][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-15.14.01:255][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-15.14.01:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-15.14.01:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.15-15.14.01:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.15-15.14.01:256][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-15.14.01:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-15.14.01:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.15-15.14.01:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-15.14.01:257][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.15-15.14.01:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.15-15.14.01:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.15-15.14.01:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.15-15.14.01:258][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-15.14.01:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-15.14.01:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.15-15.14.01:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-15.14.01:259][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-15.14.01:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-15.14.01:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.15-15.14.01:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.15-15.14.01:260][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-15.14.01:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-15.14.01:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.15-15.14.01:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:261][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-15.14.01:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-15.14.01:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.15-15.14.01:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-15.14.01:262][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-15.14.01:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-15.14.01:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.15-15.14.01:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.15-15.14.01:263][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-15.14.01:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-15.14.01:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.15-15.14.01:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:264][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-15.14.01:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-15.14.01:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.15-15.14.01:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-15.14.01:265][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-15.14.01:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-15.14.01:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.15-15.14.01:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.15-15.14.01:266][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-15.14.01:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-15.14.01:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.15-15.14.01:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.15-15.14.01:267][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-15.14.01:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-15.14.01:268][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:268][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.15-15.14.01:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.15-15.14.01:269][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-15.14.01:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-15.14.01:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.15-15.14.01:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.15-15.14.01:270][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-15.14.01:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-15.14.01:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.15-15.14.01:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:271][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-15.14.01:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-15.14.01:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.15-15.14.01:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:271][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-15.14.01:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-15.14.01:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.15-15.14.01:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-15.14.01:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.15-15.14.01:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-15.14.01:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.15-15.14.01:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-15.14.01:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.15-15.14.01:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:274][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-15.14.01:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-15.14.01:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.15-15.14.01:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.15-15.14.01:276][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-15.14.01:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-15.14.01:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.15-15.14.01:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-15.14.01:277][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.15-15.14.01:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.15-15.14.01:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.15-15.14.01:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.15-15.14.01:278][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-15.14.01:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-15.14.01:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.15-15.14.01:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.15-15.14.01:279][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-15.14.01:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-15.14.01:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.15-15.14.01:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-15.14.01:280][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-15.14.01:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-15.14.01:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-15.14.01:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.15-15.14.01:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.15-15.14.01:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.15-15.14.01:337][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.15-15.14.01:338][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.15-15.14.01:377][  0]LogSlate: Took 0.000708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.15-15.14.01:378][  0]LogSlate: Took 0.000724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.15-15.14.01:380][  0]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.15-15.14.01:464][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.03.15-15.14.01:668][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.03.15-15.14.01:668][  0]LogLoad: (Engine Initialization) Total time: 17.41 seconds
+[2022.03.15-15.14.01:668][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.15-15.14.01:709][  0]LogAssetRegistry: Asset discovery search completed in 11.5913 seconds
+[2022.03.15-15.14.01:718][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.03.15-15.14.01:723][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.15-15.14.01:880][  3]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.15-15.14.17:680][715]LogSlate: Window 'New Level' being destroyed
+[2022.03.15-15.14.17:685][715]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-15.14.17:688][715]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.15-15.14.17:701][715]LightingResults: New page: Lighting Build
+[2022.03.15-15.14.17:701][715]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.03.15-15.14.17:703][715]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.14.17:703][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.14.17:704][715]MapCheck: New page: Map Check
+[2022.03.15-15.14.17:704][715]LightingResults: New page: Lighting Build
+[2022.03.15-15.14.17:708][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-15.14.17:709][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.15-15.14.17:721][715]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.03.15-15.14.17:724][715]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.03.15-15.14.17:724][715]LogAIModule: Creating AISystem for world Untitled_1
+[2022.03.15-15.14.17:726][715]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-15.14.17:732][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.15-15.14.17:740][715]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-15.14.17:740][715]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2022.03.15-15.14.17:740][715]LogFileHelpers: Loading map 'Template_Default' took 0.055
+[2022.03.15-15.14.20:828][ 63]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP'
+[2022.03.15-15.14.28:657][ 63]LogSlate: Window 'Save Level As' being destroyed
+[2022.03.15-15.14.28:692][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-15.14.28:704][ 63]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital2E5C7E1D4CA32BE2BC7BFB822262655D.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap'
+[2022.03.15-15.14.29:009][ 63]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltDataAA4E0FEB4F0F328DAB8DE7B246F43D9F.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.29:009][ 63]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset', retrying in .5s...
+[2022.03.15-15.14.29:511][ 63]LogFileManager: Error: Error deleting file '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'.
+[2022.03.15-15.14.29:511][ 63]LogSavePackage: Error: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.36:112][ 63]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.14.36:116][ 63]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/FirstPersonBP/Maps/Hospital_BuiltData' (Hospital_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.03.15-15.14.36:144][ 63]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltDataE4DB6E3D411F3EE936DEDA8C9023E63E.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.36:144][ 63]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset', retrying in .5s...
+[2022.03.15-15.14.36:645][ 63]LogFileManager: Error: Error deleting file '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'.
+[2022.03.15-15.14.36:645][ 63]LogSavePackage: Error: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.41:116][ 63]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.14.41:120][ 63]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/FirstPersonBP/Maps/Hospital_BuiltData' (Hospital_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.03.15-15.14.41:130][ 63]EditorErrors: New page: Save Output
+[2022.03.15-15.14.41:130][ 63]EditorErrors: Warning: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.41:130][ 63]EditorErrors: Warning: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.44:147][ 63]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.03.15-15.14.44:151][ 63]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/FirstPersonBP/Maps/Hospital_BuiltData
+[2022.03.15-15.14.44:171][ 63]LogFileHelpers: Saving map 'Hospital' took 15.509
+[2022.03.15-15.14.44:174][ 63]AssetCheck: New page: Asset Save: Hospital
+[2022.03.15-15.14.44:174][ 63]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-15.14.44:182][ 63]LogSlate: Took 0.001647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.15-15.14.44:344][ 72]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP'
+[2022.03.15-15.14.47:159][406]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.14.47:163][406]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.14.48:774][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.15-15.14.48:785][584]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital7E8E621544C983C93599AA931FEE029E.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap'
+[2022.03.15-15.14.48:907][584]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltDataA608E52A48D2E85DD335ACBE135ABD1E.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.14.48:907][584]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset', retrying in .5s...
+[2022.03.15-15.14.49:408][584]LogFileManager: Error: Error deleting file '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'.
+[2022.03.15-15.14.49:408][584]LogSavePackage: Error: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.01:098][584]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.15.01:102][584]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/FirstPersonBP/Maps/Hospital_BuiltData' (Hospital_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.03.15-15.15.01:115][584]EditorErrors: New page: Save Output
+[2022.03.15-15.15.01:115][584]EditorErrors: Warning: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.01:188][584]AssetCheck: New page: Asset Save: Hospital
+[2022.03.15-15.15.01:188][584]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-15.15.02:968][777]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.02:971][777]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.04:603][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-15.15.06:865][970]LogSlate: Window 'Save Content' being destroyed
+[2022.03.15-15.15.07:004][970]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltData87B0BDCA4F91901985560582A241CFFF.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.07:004][970]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset', retrying in .5s...
+[2022.03.15-15.15.07:505][970]LogFileManager: Error: Error deleting file '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'.
+[2022.03.15-15.15.07:505][970]LogSavePackage: Error: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.10:208][970]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.15.10:212][970]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/FirstPersonBP/Maps/Hospital_BuiltData' (Hospital_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.03.15-15.15.10:234][970]EditorErrors: New page: Save Output
+[2022.03.15-15.15.10:234][970]EditorErrors: Warning: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.11:581][110]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.11:584][110]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.12:210][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.15.13:055][280]Cmd: EDIT COPY
+[2022.03.15-15.15.13:279][306]Cmd: EDIT PASTE
+[2022.03.15-15.15.19:338][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.15-15.15.20:815][ 24]LogSlate: Window 'Save Content' being destroyed
+[2022.03.15-15.15.20:939][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.15-15.15.20:950][ 24]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital3D6F11134CA79D411179BFA47762023F.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap'
+[2022.03.15-15.15.20:961][ 24]LogFileHelpers: Saving map 'Hospital' took 0.026
+[2022.03.15-15.15.20:973][ 24]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltData5C499FBD4643835C191694A66F64A26B.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.20:973][ 24]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset', retrying in .5s...
+[2022.03.15-15.15.21:475][ 24]LogFileManager: Error: Error deleting file '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'.
+[2022.03.15-15.15.21:475][ 24]LogSavePackage: Error: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.24:105][ 24]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.15.24:109][ 24]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/FirstPersonBP/Maps/Hospital_BuiltData' (Hospital_BuiltData.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.03.15-15.15.24:134][ 24]EditorErrors: New page: Save Output
+[2022.03.15-15.15.24:134][ 24]EditorErrors: Warning: Error saving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.15.24:199][ 24]AssetCheck: New page: Asset Save: Hospital
+[2022.03.15-15.15.24:199][ 24]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-15.15.33:677][147]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.33:680][147]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-15.15.41:529][933]LogSlate: Window 'New Level' being destroyed
+[2022.03.15-15.15.43:383][933]LogSlate: Window 'Save Content' being destroyed
+[2022.03.15-15.15.43:393][933]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-15.15.43:401][933]LightingResults: New page: Lighting Build
+[2022.03.15-15.15.43:401][933]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.03.15-15.15.43:437][933]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.15.43:437][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.15.43:437][933]MapCheck: New page: Map Check
+[2022.03.15-15.15.43:437][933]LightingResults: New page: Lighting Build
+[2022.03.15-15.15.43:442][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-15.15.43:443][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.15-15.15.43:452][933]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.03.15-15.15.43:455][933]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2022.03.15-15.15.43:456][933]LogAIModule: Creating AISystem for world Untitled_2
+[2022.03.15-15.15.43:457][933]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-15.15.43:462][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.15-15.15.43:468][933]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-15.15.43:468][933]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2022.03.15-15.15.43:468][933]LogFileHelpers: Loading map 'Template_Default' took 0.076
+[2022.03.15-15.15.46:124][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.15.46:139][234]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.15.50:067][685]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP'
+[2022.03.15-15.15.53:407][685]LogSlate: Window 'Message' being destroyed
+[2022.03.15-15.15.53:411][685]Message dialog closed, result: Cancel, title: Message, text: Hospital already exists. Do you want to replace it?
+[2022.03.15-15.15.54:292][685]LogSlate: Window 'Save Level As' being destroyed
+[2022.03.15-15.15.54:446][697]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/aa05253299/Documents/GitHub/BigkennethYr2FMP'
+[2022.03.15-15.15.59:262][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.15-15.15.59:296][262]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-15.15.59:296][262]Cmd: MAP LOAD FILE="../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-15.15.59:296][262]LightingResults: New page: Lighting Build
+[2022.03.15-15.15.59:296][262]LoadErrors: New page: Loading map: Hospital.umap
+[2022.03.15-15.15.59:297][262]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.15.59:297][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.15.59:297][262]MapCheck: New page: Map Check
+[2022.03.15-15.15.59:297][262]LightingResults: New page: Lighting Build
+[2022.03.15-15.15.59:301][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-15.15.59:303][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.15-15.15.59:303][262]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hospital'.
+[2022.03.15-15.15.59:305][262]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-15.15.59:305][262]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-15.15.59:312][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.15-15.15.59:322][262]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-15.15.59:322][262]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2022.03.15-15.15.59:322][262]LogFileHelpers: Loading map 'Hospital' took 0.026
+[2022.03.15-15.16.03:085][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.16.03:703][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.16.04:538][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.16.04:553][875]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.16.05:589][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.16.17:248][392]Cmd: DELETE
+[2022.03.15-15.16.17:248][392]Cmd: ACTOR DELETE
+[2022.03.15-15.16.17:249][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-15.16.17:254][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.03.15-15.16.17:255][392]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-15.16.19:137][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.16.20:361][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.16.26:119][441]Cmd: EDIT COPY
+[2022.03.15-15.16.26:477][484]Cmd: EDIT PASTE
+[2022.03.15-15.16.32:312][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.16.47:056][892]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.16.49:352][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.16.51:842][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.16.53:552][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.17.14:273][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.17.19:840][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.17.23:864][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.17.27:177][595]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.17.28:365][734]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.17.43:468][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.17.50:835][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.17.53:127][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-15.17.53:137][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-15.17.53:137][631]PIE: New page: PIE session: Hospital (15 Mar 2022, 15:17:53)
+[2022.03.15-15.17.53:138][631]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.15-15.17.53:139][631]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.15-15.17.53:139][631]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.17.53:141][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001886s)
+[2022.03.15-15.17.53:142][631]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-15.17.53:142][631]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.03.15-15.17.53:143][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.003043s)
+[2022.03.15-15.17.53:147][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.15-15.17.53:148][631]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-15.17.53:148][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-15.17.53:148][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-15.17.53:148][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-15.17.53:148][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-15.17.53:148][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-15.17.53:150][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-15.17.53:150][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-15.17.53:152][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-15.17.53:152][631]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.15-15.17.53:152][631]LogInit: FAudioDevice initialized.
+[2022.03.15-15.17.53:152][631]LogAudio: Display: Audio Device (ID: 2) registered with world 'Hospital'.
+[2022.03.15-15.17.53:193][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.17.53:195][631]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-15.17.53:197][631]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-15.17.53
+[2022.03.15-15.17.53:197][631]LogWorld: Bringing up level for play took: 0.000569
+[2022.03.15-15.17.53:197][631]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.03.15-15.17.53:201][631]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.15-15.17.53:204][631]PIE: Server logged in
+[2022.03.15-15.17.53:205][631]PIE: Play in editor total start time 0.073 seconds.
+[2022.03.15-15.17.53:237][632]LogRenderer: Reallocating scene render targets to support 1280x696 Format 10 NumSamples 1 (Frame:1).
+[2022.03.15-15.18.07:679][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.07:679][356]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.07:680][356]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-15.18.07:690][356]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.18.07:690][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.07:700][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-15.18.07:714][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.07:718][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.07:719][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.07:719][356]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.15-15.18.07:726][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.15-15.18.07:750][357]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.03.15-15.18.17:574][493]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-15.18.17:585][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-15.18.17:585][493]PIE: New page: PIE session: Hospital (15 Mar 2022, 15:18:17)
+[2022.03.15-15.18.17:585][493]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.17:587][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2022.03.15-15.18.17:588][493]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-15.18.17:588][493]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2022.03.15-15.18.17:588][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.002945s)
+[2022.03.15-15.18.17:592][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-15.18.17:593][493]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-15.18.17:593][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-15.18.17:593][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-15.18.17:593][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-15.18.17:593][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-15.18.17:593][493]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-15.18.17:595][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-15.18.17:595][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-15.18.17:596][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-15.18.17:596][493]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.15-15.18.17:597][493]LogInit: FAudioDevice initialized.
+[2022.03.15-15.18.17:597][493]LogAudio: Display: Audio Device (ID: 3) registered with world 'Hospital'.
+[2022.03.15-15.18.17:627][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.17:627][493]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-15.18.17:628][493]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-15.18.17
+[2022.03.15-15.18.17:629][493]LogWorld: Bringing up level for play took: 0.000469
+[2022.03.15-15.18.17:629][493]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.03.15-15.18.17:633][493]PIE: Server logged in
+[2022.03.15-15.18.17:634][493]PIE: Play in editor total start time 0.054 seconds.
+[2022.03.15-15.18.22:574][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.22:575][ 79]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.22:575][ 79]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-15.18.22:579][ 79]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.18.22:579][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.22:590][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-15.18.22:603][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.22:608][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.22:609][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.22:609][ 79]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.15-15.18.22:614][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.15-15.18.22:642][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.03.15-15.18.25:820][453]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-15.18.25:830][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-15.18.25:830][453]PIE: New page: PIE session: Hospital (15 Mar 2022, 15:18:25)
+[2022.03.15-15.18.25:830][453]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.25:832][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001729s)
+[2022.03.15-15.18.25:833][453]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-15.18.25:833][453]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2022.03.15-15.18.25:833][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.002760s)
+[2022.03.15-15.18.25:838][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-15.18.25:838][453]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-15.18.25:838][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-15.18.25:838][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-15.18.25:839][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-15.18.25:839][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-15.18.25:839][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-15.18.25:839][453]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-15.18.25:840][453]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.15-15.18.25:840][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-15.18.25:840][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-15.18.25:840][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-15.18.25:841][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-15.18.25:841][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-15.18.25:841][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-15.18.25:842][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-15.18.25:842][453]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.15-15.18.25:843][453]LogInit: FAudioDevice initialized.
+[2022.03.15-15.18.25:843][453]LogAudio: Display: Audio Device (ID: 4) registered with world 'Hospital'.
+[2022.03.15-15.18.25:894][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.25:895][453]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-15.18.25:896][453]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-15.18.25
+[2022.03.15-15.18.25:896][453]LogWorld: Bringing up level for play took: 0.000522
+[2022.03.15-15.18.25:896][453]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.15-15.18.25:900][453]PIE: Server logged in
+[2022.03.15-15.18.25:901][453]PIE: Play in editor total start time 0.076 seconds.
+[2022.03.15-15.18.31:287][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.31:287][ 92]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.31:287][ 92]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-15.18.31:290][ 92]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.18.31:290][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.31:298][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-15.18.31:311][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.18.31:316][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.31:317][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.18.31:317][ 92]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.15-15.18.31:328][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.15-15.18.31:355][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.15-15.18.34:794][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.18.34:808][484]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.18.35:764][596]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.03.15-15.18.37:996][861]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.15-15.18.47:561][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.15-15.18.56:458][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-15.18.56:469][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-15.18.56:469][ 73]PIE: New page: PIE session: Hospital (15 Mar 2022, 15:18:56)
+[2022.03.15-15.18.56:469][ 73]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.18.56:471][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2022.03.15-15.18.56:472][ 73]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-15.18.56:472][ 73]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2022.03.15-15.18.56:472][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.002846s)
+[2022.03.15-15.18.56:476][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-15.18.56:477][ 73]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-15.18.56:477][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-15.18.56:477][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-15.18.56:478][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-15.18.56:478][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-15.18.56:478][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-15.18.56:478][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-15.18.56:479][ 73]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-15.18.56:480][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-15.18.56:481][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-15.18.56:481][ 73]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.15-15.18.56:482][ 73]LogInit: FAudioDevice initialized.
+[2022.03.15-15.18.56:482][ 73]LogAudio: Display: Audio Device (ID: 5) registered with world 'Hospital'.
+[2022.03.15-15.18.56:531][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.18.56:532][ 73]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-15.18.56:533][ 73]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-15.18.56
+[2022.03.15-15.18.56:533][ 73]LogWorld: Bringing up level for play took: 0.000506
+[2022.03.15-15.18.56:533][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.15-15.18.56:537][ 73]PIE: Server logged in
+[2022.03.15-15.18.56:538][ 73]PIE: Play in editor total start time 0.074 seconds.
+[2022.03.15-15.19.04:533][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-15.19.04:534][ 24]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-15.19.04:534][ 24]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-15.19.04:539][ 24]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-15.19.04:540][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.19.04:553][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-15.19.04:563][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-15.19.04:567][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.19.04:568][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-15.19.04:568][ 24]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.15-15.19.04:571][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.15-15.19.04:594][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.15-15.19.05:260][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.19.11:968][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.19.11:983][881]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.15-15.19.14:734][194]LogActorFactory: Actor Factory created Cube
+[2022.03.15-15.19.15:781][318]LogActorFactory: Actor Factory created Cube
+[2022.03.15-15.20.25:315][590]Cmd: EDIT COPY
+[2022.03.15-15.20.25:586][621]Cmd: EDIT PASTE
+[2022.03.15-15.20.37:848][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.20.40:329][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.15-15.26.04:066][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.15-15.26.04:657][528]Cmd: EDIT COPY
+[2022.03.15-15.26.04:892][556]Cmd: EDIT PASTE
+[2022.03.15-15.26.53:190][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.15-15.26.53:203][246]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_Auto14B3958A24608A870C02E778CC50F0253.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto1.umap'
+[2022.03.15-15.26.53:205][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.020
+[2022.03.15-15.26.53:205][246]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2022.03.15-15.37.16:186][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.37.22:762][212]Cmd: EDIT COPY
+[2022.03.15-15.37.23:012][236]Cmd: EDIT PASTE
+[2022.03.15-15.37.38:016][  1]Cmd: EDIT COPY
+[2022.03.15-15.37.38:307][ 32]Cmd: EDIT PASTE
+[2022.03.15-15.37.44:892][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-15.37.45:668][890]Cmd: DELETE
+[2022.03.15-15.37.45:668][890]Cmd: ACTOR DELETE
+[2022.03.15-15.37.45:669][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-15.37.45:674][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.15-15.37.45:675][890]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-15.37.46:380][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.03.15-15.37.54:088][871]Cmd: EDIT COPY
+[2022.03.15-15.37.54:343][901]Cmd: EDIT PASTE
+[2022.03.15-15.38.06:428][308]Cmd: EDIT COPY
+[2022.03.15-15.38.06:677][336]Cmd: EDIT PASTE
+[2022.03.15-15.38.23:469][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.03.15-15.38.34:680][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.03.15-15.38.41:126][435]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.38.43:746][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.03.15-15.38.44:949][874]Cmd: EDIT COPY
+[2022.03.15-15.38.45:219][906]Cmd: EDIT PASTE
+[2022.03.15-15.39.01:816][861]Cmd: EDIT COPY
+[2022.03.15-15.39.02:074][885]Cmd: EDIT PASTE
+[2022.03.15-15.39.04:054][117]Cmd: TRANSACTION UNDO
+[2022.03.15-15.39.04:054][117]LogEditorTransaction: Undo Move Actors
+[2022.03.15-15.39.04:627][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-15.39.05:312][216]Cmd: EDIT COPY
+[2022.03.15-15.39.05:545][244]Cmd: EDIT PASTE
+[2022.03.15-15.39.14:006][224]Cmd: EDIT COPY
+[2022.03.15-15.39.14:229][243]Cmd: EDIT PASTE
+[2022.03.15-15.39.18:028][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.15-15.39.19:138][799]Cmd: DELETE
+[2022.03.15-15.39.19:138][799]Cmd: ACTOR DELETE
+[2022.03.15-15.39.19:139][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-15.39.19:144][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.15-15.39.19:145][799]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-15.39.20:220][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.03.15-15.39.27:623][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-15.39.28:399][864]Cmd: EDIT COPY
+[2022.03.15-15.39.28:630][885]Cmd: EDIT PASTE
+[2022.03.15-15.39.33:010][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2022.03.15-15.39.35:945][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-15.39.36:400][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.03.15-15.39.46:149][916]Cmd: EDIT COPY
+[2022.03.15-15.39.46:385][937]Cmd: EDIT PASTE
+[2022.03.15-15.40.06:165][248]Cmd: EDIT COPY
+[2022.03.15-15.40.06:392][269]Cmd: EDIT PASTE
+[2022.03.15-15.40.27:540][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.40.32:324][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2022.03.15-15.40.38:292][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.40.48:711][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.03.15-15.40.49:391][337]Cmd: EDIT COPY
+[2022.03.15-15.40.49:638][360]Cmd: EDIT PASTE
+[2022.03.15-15.40.56:448][164]Cmd: DELETE
+[2022.03.15-15.40.56:448][164]Cmd: ACTOR DELETE
+[2022.03.15-15.40.56:449][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-15.40.56:454][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.15-15.40.56:455][164]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-15.40.56:867][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.15-15.40.57:828][325]Cmd: EDIT COPY
+[2022.03.15-15.40.58:030][349]Cmd: EDIT PASTE
+[2022.03.15-15.41.02:070][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.15-15.41.07:397][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.03.15-15.41.08:959][591]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.41.24:711][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-15.41.25:795][588]Cmd: EDIT COPY
+[2022.03.15-15.41.26:021][609]Cmd: EDIT PASTE
+[2022.03.15-15.42.07:374][490]Cmd: EDIT COPY
+[2022.03.15-15.42.07:785][535]Cmd: EDIT PASTE
+[2022.03.15-15.42.12:476][ 72]Cmd: EDIT COPY
+[2022.03.15-15.42.12:692][ 98]Cmd: EDIT PASTE
+[2022.03.15-15.42.18:757][783]Cmd: EDIT COPY
+[2022.03.15-15.42.19:010][813]Cmd: EDIT PASTE
+[2022.03.15-15.42.25:192][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.03.15-15.42.25:650][582]Cmd: EDIT COPY
+[2022.03.15-15.42.25:896][611]Cmd: EDIT PASTE
+[2022.03.15-15.43.37:046][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor21)
+[2022.03.15-15.43.37:732][985]Cmd: DELETE
+[2022.03.15-15.43.37:732][985]Cmd: ACTOR DELETE
+[2022.03.15-15.43.37:733][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-15.43.37:738][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-15.43.37:740][985]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-15.43.38:563][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.03.15-15.43.39:705][214]Cmd: EDIT COPY
+[2022.03.15-15.43.39:991][248]Cmd: EDIT PASTE
+[2022.03.15-15.43.44:801][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.44.02:065][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.15-15.44.12:627][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.15-15.44.16:034][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.44.41:519][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.15-15.44.41:541][421]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_Auto22B0D42894F1F3869002444B9351C2AA9.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto2.umap'
+[2022.03.15-15.44.41:542][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.028
+[2022.03.15-15.44.41:542][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2022.03.15-15.45.27:349][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-15.45.45:328][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.45.47:942][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-15.45.51:972][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.46.12:086][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.03.15-15.46.17:940][740]Cmd: TRANSACTION UNDO
+[2022.03.15-15.46.17:940][740]LogEditorTransaction: Undo Move Actors
+[2022.03.15-15.46.29:824][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.46.30:211][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.15-15.46.33:755][522]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.48.02:605][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.03.15-15.48.04:021][292]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.48.30:450][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2022.03.15-15.48.30:777][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.15-15.48.35:692][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.50.09:862][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.15-15.50.10:227][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor22)
+[2022.03.15-15.51.03:809][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-15.51.37:086][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.03.15-15.51.37:107][471]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital74402F4D444AA81FD943D38A1B92D4EA.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap'
+[2022.03.15-15.51.37:234][471]LogSavePackage: Moving '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Saved/Hospital_BuiltDataD3A5C8134CAC6B3508CCC0A7321AD7E2.tmp' to '../../../../../../Users/aa05253299/Documents/GitHub/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/Hospital_BuiltData.uasset'
+[2022.03.15-15.51.37:240][471]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.15-15.51.37:240][471]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-15.51.37:240][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Hospital_BuiltData.Hospital_BuiltData
+[2022.03.15-15.51.39:451][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
