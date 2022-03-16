@@ -5775,3 +5775,826 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.03.15-22.02.37:175][497]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/HospitalBCBAD34D40DC85537E2AAFBD0EC1BEC4.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Content/FirstPersonBP/Maps/Hospital.umap'
 [2022.03.15-22.02.37:195][497]AssetCheck: New page: Asset Save: Hospital
 [2022.03.15-22.02.37:195][497]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Hospital.Hospital
+[2022.03.15-22.04.09:361][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2022.03.15-22.04.10:816][346]Cmd: TRANSACTION UNDO
+[2022.03.15-22.04.10:816][346]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.15-22.04.11:361][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2022.03.15-22.04.34:974][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2022.03.15-22.04.40:698][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube74)
+[2022.03.15-22.04.44:562][546]Cmd: EDIT COPY
+[2022.03.15-22.04.44:805][567]Cmd: EDIT PASTE
+[2022.03.15-22.04.54:669][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube60)
+[2022.03.15-22.04.56:345][877]Cmd: EDIT COPY
+[2022.03.15-22.04.56:639][912]Cmd: EDIT PASTE
+[2022.03.15-22.05.04:238][798]Cmd: DELETE
+[2022.03.15-22.05.04:238][798]Cmd: ACTOR DELETE
+[2022.03.15-22.05.04:240][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.05.04:240][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.05.04:245][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.15-22.05.04:247][798]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2022.03.15-22.05.05:802][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2022.03.15-22.05.07:550][188]Cmd: DELETE
+[2022.03.15-22.05.07:550][188]Cmd: ACTOR DELETE
+[2022.03.15-22.05.07:551][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.05.07:552][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.05.07:556][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.15-22.05.07:557][188]LogEditorActor: Deleted 2 Actors (0.007 secs)
+[2022.03.15-22.05.08:352][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube74)
+[2022.03.15-22.05.10:993][587]Cmd: EDIT COPY
+[2022.03.15-22.05.11:255][618]Cmd: EDIT PASTE
+[2022.03.15-22.06.36:960][ 95]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.15-22.06.38:824][292]Cmd: EDIT COPY
+[2022.03.15-22.06.39:094][324]Cmd: EDIT PASTE
+[2022.03.15-22.06.48:682][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2022.03.15-22.06.53:399][970]Cmd: EDIT COPY
+[2022.03.15-22.06.53:627][988]Cmd: EDIT PASTE
+[2022.03.15-22.09.17:611][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2022.03.15-22.09.27:210][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-22.09.34:031][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.03.15-22.09.40:523][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-22.09.43:551][984]Cmd: EDIT COPY
+[2022.03.15-22.09.43:854][ 20]Cmd: EDIT PASTE
+[2022.03.15-22.10.17:466][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-22.10.17:936][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-22.10.19:254][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-22.10.19:836][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-22.10.20:793][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.03.15-22.10.21:701][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.03.15-22.10.24:860][818]Cmd: DELETE
+[2022.03.15-22.10.24:860][818]Cmd: ACTOR DELETE
+[2022.03.15-22.10.24:861][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.10.24:866][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.15-22.10.24:867][818]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-22.10.25:582][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2022.03.15-22.10.26:583][ 21]Cmd: EDIT COPY
+[2022.03.15-22.10.26:868][ 55]Cmd: EDIT PASTE
+[2022.03.15-22.10.57:639][681]Cmd: EDIT COPY
+[2022.03.15-22.10.57:945][708]Cmd: EDIT PASTE
+[2022.03.15-22.11.15:886][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-22.11.16:513][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.11.22:924][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube87)
+[2022.03.15-22.11.43:274][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2022.03.15-22.11.53:728][253]Cmd: DELETE
+[2022.03.15-22.11.53:728][253]Cmd: ACTOR DELETE
+[2022.03.15-22.11.53:730][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.11.53:730][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.11.53:735][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.15-22.11.53:736][253]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2022.03.15-22.11.54:979][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2022.03.15-22.12.01:940][214]Cmd: EDIT COPY
+[2022.03.15-22.12.02:232][249]Cmd: EDIT PASTE
+[2022.03.15-22.12.13:573][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube86)
+[2022.03.15-22.12.13:921][634]Cmd: EDIT COPY
+[2022.03.15-22.12.14:193][665]Cmd: EDIT PASTE
+[2022.03.15-22.12.32:361][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.12.41:085][839]Cmd: TRANSACTION UNDO
+[2022.03.15-22.12.41:085][839]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.15-22.12.42:110][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.12.43:460][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube89)
+[2022.03.15-22.12.57:296][717]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2022.03.15-22.12.58:387][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.13.00:827][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube89)
+[2022.03.15-22.13.19:458][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube87)
+[2022.03.15-22.13.20:651][308]Cmd: EDIT COPY
+[2022.03.15-22.13.20:951][344]Cmd: EDIT PASTE
+[2022.03.15-22.13.44:499][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube89)
+[2022.03.15-22.13.49:707][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.14.01:236][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.14.03:882][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.14.08:624][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube89)
+[2022.03.15-22.14.12:673][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.14.17:081][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.14.21:839][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.14.29:762][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.14.33:174][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2022.03.15-22.14.38:889][363]Cmd: EDIT COPY
+[2022.03.15-22.14.39:148][387]Cmd: EDIT PASTE
+[2022.03.15-22.15.06:146][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-22.15.06:165][547]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto8BCB174614858B158720352996BE9622A.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto8.umap'
+[2022.03.15-22.15.06:165][547]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.024
+[2022.03.15-22.15.06:165][547]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.03.15-22.15.29:726][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2022.03.15-22.15.45:824][138]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.15.54:171][ 75]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2022.03.15-22.15.54:791][147]Cmd: EDIT COPY
+[2022.03.15-22.15.55:093][183]Cmd: EDIT PASTE
+[2022.03.15-22.16.06:898][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube95)
+[2022.03.15-22.16.10:298][959]Cmd: TRANSACTION UNDO
+[2022.03.15-22.16.10:298][959]LogEditorTransaction: Undo Move Actors
+[2022.03.15-22.16.23:276][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.16.28:873][ 51]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.03.15-22.16.31:069][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.16.41:316][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.16.44:171][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2022.03.15-22.16.49:304][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.16.55:325][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.18.26:036][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2022.03.15-22.18.28:929][248]Cmd: TRANSACTION UNDO
+[2022.03.15-22.18.28:929][248]LogEditorTransaction: Undo Move Actors
+[2022.03.15-22.19.18:779][191]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.03.15-22.19.25:859][ 12]Cmd: EDIT COPY
+[2022.03.15-22.19.26:148][ 40]Cmd: EDIT PASTE
+[2022.03.15-22.19.43:633][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.20.58:534][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-22.21.23:188][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube90)
+[2022.03.15-22.21.26:434][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2022.03.15-22.23.56:349][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube85)
+[2022.03.15-22.23.57:113][706]Cmd: EDIT COPY
+[2022.03.15-22.23.57:366][728]Cmd: EDIT PASTE
+[2022.03.15-22.24.00:833][112]Cmd: DELETE
+[2022.03.15-22.24.00:833][112]Cmd: ACTOR DELETE
+[2022.03.15-22.24.00:835][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.24.00:840][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.15-22.24.00:842][112]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-22.25.06:012][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.15-22.25.06:079][836]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto9EEA3F8E343D7E65C27B2B198BB90C376.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto9.umap'
+[2022.03.15-22.25.06:080][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.072
+[2022.03.15-22.25.06:080][836]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2022.03.15-22.28.23:458][486]LogActorFactory: Actor Factory created Cube
+[2022.03.15-22.28.24:244][576]LogActorFactory: Actor Factory created Cube
+[2022.03.15-22.28.45:079][  7]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.03.15-22.28.53:921][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.03.15-22.28.57:480][462]Cmd: DELETE
+[2022.03.15-22.28.57:480][462]Cmd: ACTOR DELETE
+[2022.03.15-22.28.57:482][462]LogEditorActor: Deleted Actor: Brush
+[2022.03.15-22.28.57:502][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.15-22.28.57:503][462]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.15-22.28.59:913][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.03.15-22.29.01:266][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.15-22.29.56:577][531]Cmd: EDIT COPY
+[2022.03.15-22.29.56:856][556]Cmd: EDIT PASTE
+[2022.03.15-22.30.18:688][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2022.03.15-22.30.19:700][260]Cmd: DELETE
+[2022.03.15-22.30.19:700][260]Cmd: ACTOR DELETE
+[2022.03.15-22.30.19:702][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.30.19:706][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.15-22.30.19:708][260]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-22.30.23:531][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.15-22.30.24:365][808]Cmd: EDIT COPY
+[2022.03.15-22.30.24:684][846]Cmd: EDIT PASTE
+[2022.03.15-22.30.31:800][681]Cmd: TRANSACTION UNDO
+[2022.03.15-22.30.31:800][681]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.30.33:640][859]Cmd: TRANSACTION UNDO
+[2022.03.15-22.30.33:640][859]LogEditorTransaction: Undo Move Actors
+[2022.03.15-22.30.37:740][339]Cmd: TRANSACTION UNDO
+[2022.03.15-22.30.37:740][339]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.30.49:810][729]Cmd: TRANSACTION UNDO
+[2022.03.15-22.30.49:810][729]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.31.12:233][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.15-22.31.19:415][157]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.31.22:928][550]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.03.15-22.31.23:518][615]Cmd: EDIT COPY
+[2022.03.15-22.31.23:764][637]Cmd: EDIT PASTE
+[2022.03.15-22.31.30:306][372]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.31.37:948][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.15-22.31.40:305][526]Cmd: EDIT COPY
+[2022.03.15-22.31.40:584][559]Cmd: EDIT PASTE
+[2022.03.15-22.31.42:820][807]Cmd: TRANSACTION UNDO
+[2022.03.15-22.31.42:820][807]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.31.51:029][751]Cmd: DELETE
+[2022.03.15-22.31.51:029][751]Cmd: ACTOR DELETE
+[2022.03.15-22.31.51:031][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.31.51:031][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.31.51:032][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.31.51:036][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-22.31.51:037][751]LogEditorActor: Deleted 3 Actors (0.008 secs)
+[2022.03.15-22.35.05:928][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.03.15-22.35.05:959][111]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto055D55C9B41C5C5DE214FA187E6AAFC50.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto0.umap'
+[2022.03.15-22.35.05:960][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.037
+[2022.03.15-22.35.05:960][111]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2022.03.15-22.37.06:610][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.15-22.38.05:343][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.38.19:349][379]LogActorFactory: Actor Factory created Cylinder
+[2022.03.15-22.38.20:547][522]LogActorFactory: Actor Factory created Cylinder
+[2022.03.15-22.38.33:270][  5]Cmd: DELETE
+[2022.03.15-22.38.33:270][  5]Cmd: ACTOR DELETE
+[2022.03.15-22.38.33:272][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.38.33:277][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.15-22.38.33:278][  5]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-22.38.35:478][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.15-22.38.44:248][257]LogActorFactory: Actor Factory created Cylinder
+[2022.03.15-22.38.47:088][595]LogActorFactory: Actor Factory created Cylinder
+[2022.03.15-22.41.37:626][ 31]Cmd: EDIT COPY
+[2022.03.15-22.41.37:936][ 66]Cmd: EDIT PASTE
+[2022.03.15-22.41.42:424][571]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/Hospital.Hospital:PersistentLevel.Cylinder2.StaticMeshComponent0)
+[2022.03.15-22.41.42:425][571]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/Hospital.Hospital:PersistentLevel.Cylinder2.StaticMeshComponent0)
+[2022.03.15-22.41.42:630][596]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/Hospital.Hospital:PersistentLevel.Cylinder2.StaticMeshComponent0)
+[2022.03.15-22.41.42:630][596]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPersonBP/Maps/Hospital.Hospital:PersistentLevel.Cylinder2.StaticMeshComponent0)
+[2022.03.15-22.41.45:637][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2022.03.15-22.41.52:312][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2022.03.15-22.42.01:356][783]Cmd: EDIT COPY
+[2022.03.15-22.42.01:593][803]Cmd: EDIT PASTE
+[2022.03.15-22.42.08:671][598]Cmd: EDIT COPY
+[2022.03.15-22.42.08:953][626]Cmd: EDIT PASTE
+[2022.03.15-22.42.43:157][510]Cmd: TRANSACTION UNDO
+[2022.03.15-22.42.43:157][510]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.15-22.43.24:879][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.43.34:593][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.15-22.43.35:868][671]Cmd: EDIT COPY
+[2022.03.15-22.43.36:103][695]Cmd: EDIT PASTE
+[2022.03.15-22.43.48:674][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-22.44.02:237][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.15-22.44.06:265][188]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.44.33:562][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.03.15-22.44.39:496][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.03.15-22.44.39:881][155]Cmd: EDIT COPY
+[2022.03.15-22.44.41:185][311]Cmd: EDIT PASTE
+[2022.03.15-22.44.43:808][609]Cmd: EDIT COPY
+[2022.03.15-22.44.44:186][645]Cmd: EDIT PASTE
+[2022.03.15-22.44.46:980][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.15-22.44.57:921][261]Cmd: EDIT COPY
+[2022.03.15-22.44.58:174][291]Cmd: EDIT PASTE
+[2022.03.15-22.45.00:998][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.03.15-22.45.17:050][485]Cmd: TRANSACTION UNDO
+[2022.03.15-22.45.17:050][485]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.45.17:843][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.15-22.45.19:210][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.03.15-22.45.25:057][392]Cmd: TRANSACTION UNDO
+[2022.03.15-22.45.25:057][392]LogEditorTransaction: Undo Move Actors
+[2022.03.15-22.45.25:462][409]Cmd: TRANSACTION UNDO
+[2022.03.15-22.45.25:462][409]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-22.45.28:749][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.15-22.45.31:383][ 76]Cmd: DELETE
+[2022.03.15-22.45.31:383][ 76]Cmd: ACTOR DELETE
+[2022.03.15-22.45.31:385][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.45.31:390][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.15-22.45.31:391][ 76]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-22.45.36:056][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.03.15-22.45.38:859][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.15-22.45.40:740][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.45.45:212][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.03.15-22.45.46:416][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.15-22.45.47:182][953]Cmd: DELETE
+[2022.03.15-22.45.47:182][953]Cmd: ACTOR DELETE
+[2022.03.15-22.45.47:184][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.45.47:188][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.15-22.45.47:189][953]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-22.45.53:337][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2022.03.15-22.45.58:515][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.03.15-22.46.03:426][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2022.03.15-22.46.04:272][973]Cmd: DELETE
+[2022.03.15-22.46.04:272][973]Cmd: ACTOR DELETE
+[2022.03.15-22.46.04:274][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.46.04:278][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.15-22.46.04:279][973]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-22.46.09:436][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.03.15-22.46.22:764][152]Cmd: DELETE
+[2022.03.15-22.46.22:764][152]Cmd: ACTOR DELETE
+[2022.03.15-22.46.22:766][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.46.22:770][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.15-22.46.22:772][152]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-22.46.38:345][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-22.46.39:747][174]Cmd: EDIT COPY
+[2022.03.15-22.46.40:000][204]Cmd: EDIT PASTE
+[2022.03.15-22.47.25:637][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-22.47.27:518][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.47.34:173][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube88)
+[2022.03.15-22.48.02:557][785]Cmd: EDIT PASTE
+[2022.03.15-22.48.03:618][903]Cmd: TRANSACTION UNDO
+[2022.03.15-22.48.03:618][903]LogEditorTransaction: Undo Paste
+[2022.03.15-22.48.04:661][993]Cmd: EDIT COPY
+[2022.03.15-22.48.04:894][ 21]Cmd: EDIT PASTE
+[2022.03.15-22.48.13:826][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2022.03.15-22.48.15:937][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2022.03.15-22.48.18:225][557]Cmd: DELETE
+[2022.03.15-22.48.18:226][557]Cmd: ACTOR DELETE
+[2022.03.15-22.48.18:228][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.48.18:228][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.48.18:232][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.15-22.48.18:233][557]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2022.03.15-22.48.18:807][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2022.03.15-22.48.21:841][982]Cmd: TRANSACTION UNDO
+[2022.03.15-22.48.21:841][982]LogEditorTransaction: Undo Move Actors
+[2022.03.15-22.48.24:999][327]Cmd: TRANSACTION UNDO
+[2022.03.15-22.48.24:999][327]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.15-22.48.25:358][352]Cmd: TRANSACTION UNDO
+[2022.03.15-22.48.25:358][352]LogEditorTransaction: Undo Delete Actors
+[2022.03.15-22.48.26:673][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.48.28:018][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2022.03.15-22.48.29:539][831]Cmd: DELETE
+[2022.03.15-22.48.29:539][831]Cmd: ACTOR DELETE
+[2022.03.15-22.48.29:541][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.48.29:545][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.15-22.48.29:546][831]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-22.48.30:119][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2022.03.15-22.49.01:410][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.49.04:330][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2022.03.15-22.49.05:603][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube91)
+[2022.03.15-22.49.06:448][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.49.15:283][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2022.03.15-22.49.25:604][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-22.49.43:241][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-22.49.43:245][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-22.49.43:245][  0]PIE: New page: PIE session: Hospital (15 Mar 2022, 22:49:43)
+[2022.03.15-22.49.43:245][  0]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-22.49.43:251][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005513s)
+[2022.03.15-22.49.43:251][  0]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-22.49.43:252][  0]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2022.03.15-22.49.43:252][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.006639s)
+[2022.03.15-22.49.43:256][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.15-22.49.43:257][  0]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-22.49.43:257][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-22.49.43:258][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-22.49.43:258][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-22.49.43:258][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-22.49.43:258][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-22.49.43:258][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 5: BackRight
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.03.15-22.49.43:263][  0]LogAudioMixer: Display: 7: SideRight
+[2022.03.15-22.49.43:374][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2022.03.15-22.49.43:374][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-22.49.43:374][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-22.49.43:374][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-22.49.43:375][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-22.49.43:375][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-22.49.43:375][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.15-22.49.43:376][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-22.49.43:376][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-22.49.43:376][  0]LogInit: FAudioDevice initialized.
+[2022.03.15-22.49.43:376][  0]LogAudio: Display: Audio Device (ID: 62) registered with world 'Hospital'.
+[2022.03.15-22.49.43:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-22.49.43:400][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-22.49.43:403][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-22.49.43
+[2022.03.15-22.49.43:403][  0]LogWorld: Bringing up level for play took: 0.002219
+[2022.03.15-22.49.43:403][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.03.15-22.49.43:408][  0]PIE: Server logged in
+[2022.03.15-22.49.43:409][  0]PIE: Play in editor total start time 0.164 seconds.
+[2022.03.15-22.50.06:558][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-22.50.06:558][769]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-22.50.06:558][769]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-22.50.06:565][769]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-22.50.06:566][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-22.50.06:572][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-22.50.06:578][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-22.50.06:582][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-22.50.06:582][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-22.50.06:583][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-22.50.06:587][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.15-22.50.06:634][772]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.03.15-22.50.17:333][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-22.50.18:634][186]Cmd: EDIT COPY
+[2022.03.15-22.50.18:850][210]Cmd: EDIT PASTE
+[2022.03.15-22.51.23:817][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2022.03.15-22.51.40:729][819]Cmd: EDIT COPY
+[2022.03.15-22.51.40:976][843]Cmd: EDIT PASTE
+[2022.03.15-22.52.01:411][217]Cmd: EDIT COPY
+[2022.03.15-22.52.01:629][242]Cmd: EDIT PASTE
+[2022.03.15-22.52.49:144][827]Cmd: EDIT COPY
+[2022.03.15-22.52.49:355][846]Cmd: EDIT PASTE
+[2022.03.15-22.53.01:191][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2022.03.15-22.53.05:083][688]Cmd: EDIT COPY
+[2022.03.15-22.53.05:317][708]Cmd: EDIT PASTE
+[2022.03.15-22.53.19:237][330]Cmd: EDIT COPY
+[2022.03.15-22.53.19:464][350]Cmd: EDIT PASTE
+[2022.03.15-22.53.23:111][779]Cmd: EDIT COPY
+[2022.03.15-22.53.23:327][805]Cmd: EDIT PASTE
+[2022.03.15-22.53.36:977][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2022.03.15-22.53.38:003][533]Cmd: DELETE
+[2022.03.15-22.53.38:003][533]Cmd: ACTOR DELETE
+[2022.03.15-22.53.38:005][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-22.53.38:010][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.15-22.53.38:011][533]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-22.54.14:685][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.15-22.54.14:746][903]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto1C2AD92B543A59DDD7B3FF282A7667A7E.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto1.umap'
+[2022.03.15-22.54.14:746][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.065
+[2022.03.15-22.54.14:746][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2022.03.15-22.54.19:856][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2022.03.15-22.55.04:119][707]Cmd: EDIT COPY
+[2022.03.15-22.55.04:361][728]Cmd: EDIT PASTE
+[2022.03.15-22.55.31:821][916]Cmd: EDIT COPY
+[2022.03.15-22.55.32:049][939]Cmd: EDIT PASTE
+[2022.03.15-23.04.14:626][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.15-23.04.14:647][534]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto2D8CEEF4346A4FAC783D718888465924E.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto2.umap'
+[2022.03.15-23.04.14:648][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.026
+[2022.03.15-23.04.14:648][534]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.03.15-23.15.03:284][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube107)
+[2022.03.15-23.15.09:772][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube107)
+[2022.03.15-23.15.11:295][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-23.15.20:756][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2022.03.15-23.15.22:215][403]Cmd: POLY SELECT ALL
+[2022.03.15-23.15.24:614][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2022.03.15-23.15.25:967][836]Cmd: EDIT COPY
+[2022.03.15-23.15.26:212][865]Cmd: EDIT PASTE
+[2022.03.15-23.15.41:444][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube110)
+[2022.03.15-23.15.45:474][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2022.03.15-23.15.57:514][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.03.15-23.16.09:220][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.03.15-23.16.23:754][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.16.28:796][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube110)
+[2022.03.15-23.16.29:635][267]Cmd: EDIT COPY
+[2022.03.15-23.16.29:888][297]Cmd: EDIT PASTE
+[2022.03.15-23.17.21:975][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2022.03.15-23.17.30:245][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.18.04:007][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2022.03.15-23.18.08:482][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-23.18.08:485][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-23.18.08:486][868]PIE: New page: PIE session: Hospital (15 Mar 2022, 23:18:08)
+[2022.03.15-23.18.08:486][868]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-23.18.08:492][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006151s)
+[2022.03.15-23.18.08:493][868]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-23.18.08:493][868]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2022.03.15-23.18.08:493][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.007296s)
+[2022.03.15-23.18.08:497][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-23.18.08:498][868]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-23.18.08:498][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-23.18.08:498][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-23.18.08:498][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-23.18.08:498][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-23.18.08:498][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-23.18.08:499][868]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 4: BackLeft
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 5: BackRight
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 6: SideLeft
+[2022.03.15-23.18.08:503][868]LogAudioMixer: Display: 7: SideRight
+[2022.03.15-23.18.08:617][868]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2022.03.15-23.18.08:617][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-23.18.08:617][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-23.18.08:617][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-23.18.08:618][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-23.18.08:618][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-23.18.08:618][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.15-23.18.08:619][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-23.18.08:619][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-23.18.08:619][868]LogInit: FAudioDevice initialized.
+[2022.03.15-23.18.08:619][868]LogAudio: Display: Audio Device (ID: 63) registered with world 'Hospital'.
+[2022.03.15-23.18.08:644][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-23.18.08:644][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-23.18.08:647][868]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-23.18.08
+[2022.03.15-23.18.08:647][868]LogWorld: Bringing up level for play took: 0.002719
+[2022.03.15-23.18.08:648][868]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.03.15-23.18.08:652][868]PIE: Server logged in
+[2022.03.15-23.18.08:653][868]PIE: Play in editor total start time 0.168 seconds.
+[2022.03.15-23.18.18:268][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-23.18.18:268][ 10]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-23.18.18:269][ 10]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-23.18.18:275][ 10]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-23.18.18:276][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-23.18.18:283][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-23.18.18:296][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-23.18.18:301][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-23.18.18:301][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-23.18.18:302][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-23.18.18:305][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.15-23.18.18:349][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.03.15-23.18.21:224][309]Cmd: DELETE
+[2022.03.15-23.18.21:224][309]Cmd: ACTOR DELETE
+[2022.03.15-23.18.21:226][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.18.21:231][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.15-23.18.21:232][309]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-23.18.21:671][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube94)
+[2022.03.15-23.18.37:789][263]Cmd: TRANSACTION UNDO
+[2022.03.15-23.18.37:789][263]LogEditorTransaction: Undo Scale Actors
+[2022.03.15-23.18.42:786][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.15-23.18.42:789][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-23.18.42:790][814]PIE: New page: PIE session: Hospital (15 Mar 2022, 23:18:42)
+[2022.03.15-23.18.42:790][814]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-23.18.42:795][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005689s)
+[2022.03.15-23.18.42:796][814]LogAIModule: Creating AISystem for world Hospital
+[2022.03.15-23.18.42:796][814]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2022.03.15-23.18.42:796][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Hospital.Hospital to /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital (0.006631s)
+[2022.03.15-23.18.42:801][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-23.18.42:802][814]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-23.18.42:802][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-23.18.42:802][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.15-23.18.42:802][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.15-23.18.42:802][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.15-23.18.42:802][814]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-23.18.42:806][814]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-23.18.42:806][814]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-23.18.42:806][814]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.15-23.18.42:806][814]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.15-23.18.42:807][814]LogAudioMixer: Display: 4: BackLeft
+[2022.03.15-23.18.42:807][814]LogAudioMixer: Display: 5: BackRight
+[2022.03.15-23.18.42:807][814]LogAudioMixer: Display: 6: SideLeft
+[2022.03.15-23.18.42:807][814]LogAudioMixer: Display: 7: SideRight
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO Wireless Gaming Headset)
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-23.18.42:912][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-23.18.42:912][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.15-23.18.42:913][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-23.18.42:913][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-23.18.42:913][814]LogInit: FAudioDevice initialized.
+[2022.03.15-23.18.42:913][814]LogAudio: Display: Audio Device (ID: 64) registered with world 'Hospital'.
+[2022.03.15-23.18.42:935][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-23.18.42:935][814]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.15-23.18.42:938][814]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital.Hospital up for play (max tick rate 0) at 2022.03.15-23.18.42
+[2022.03.15-23.18.42:938][814]LogWorld: Bringing up level for play took: 0.002292
+[2022.03.15-23.18.42:938][814]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.03.15-23.18.42:942][814]PIE: Server logged in
+[2022.03.15-23.18.42:943][814]PIE: Play in editor total start time 0.154 seconds.
+[2022.03.15-23.18.51:787][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-23.18.51:787][865]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Hospital
+[2022.03.15-23.18.51:788][865]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.15-23.18.51:795][865]LogWorld: UWorld::CleanupWorld for Hospital, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-23.18.51:796][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-23.18.51:803][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-23.18.51:816][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-23.18.51:821][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-23.18.51:822][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-23.18.51:825][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.15-23.18.51:869][867]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.03.15-23.19.14:638][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2022.03.15-23.19.18:202][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2022.03.15-23.19.22:177][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2022.03.15-23.19.37:842][280]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.03.15-23.19.38:086][306]Cmd: EDIT COPY
+[2022.03.15-23.19.38:333][335]Cmd: EDIT PASTE
+[2022.03.15-23.19.44:684][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2022.03.15-23.20.25:776][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.15-23.20.25:797][855]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto3CCBFCC5440ED26EB4CAC46B883ED576D.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto3.umap'
+[2022.03.15-23.20.25:798][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.026
+[2022.03.15-23.20.25:798][855]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.03.15-23.21.58:288][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2022.03.15-23.21.59:119][ 46]Cmd: DELETE
+[2022.03.15-23.21.59:119][ 46]Cmd: ACTOR DELETE
+[2022.03.15-23.21.59:121][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.21.59:125][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.03.15-23.21.59:126][ 46]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-23.22.06:545][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2022.03.15-23.22.15:445][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2022.03.15-23.22.45:616][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2022.03.15-23.22.53:147][366]Cmd: TRANSACTION UNDO
+[2022.03.15-23.22.53:147][366]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.22.57:822][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2022.03.15-23.23.11:213][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-23.23.18:043][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2022.03.15-23.23.18:364][259]Cmd: EDIT COPY
+[2022.03.15-23.23.18:676][296]Cmd: EDIT PASTE
+[2022.03.15-23.23.39:534][729]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2022.03.15-23.23.40:389][821]Cmd: EDIT COPY
+[2022.03.15-23.23.40:665][848]Cmd: EDIT PASTE
+[2022.03.15-23.23.45:968][452]Cmd: EDIT COPY
+[2022.03.15-23.23.46:196][479]Cmd: EDIT PASTE
+[2022.03.15-23.23.49:216][834]Cmd: EDIT COPY
+[2022.03.15-23.23.49:471][854]Cmd: EDIT PASTE
+[2022.03.15-23.23.51:467][ 78]Cmd: EDIT COPY
+[2022.03.15-23.23.51:738][110]Cmd: EDIT PASTE
+[2022.03.15-23.24.03:283][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2022.03.15-23.24.26:350][154]Cmd: EDIT COPY
+[2022.03.15-23.24.26:600][184]Cmd: EDIT PASTE
+[2022.03.15-23.25.06:264][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-23.25.10:745][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2022.03.15-23.25.12:743][551]Cmd: EDIT COPY
+[2022.03.15-23.25.13:039][580]Cmd: EDIT PASTE
+[2022.03.15-23.25.16:940][ 43]Cmd: EDIT COPY
+[2022.03.15-23.25.17:202][ 74]Cmd: EDIT PASTE
+[2022.03.15-23.25.22:329][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2022.03.15-23.25.23:631][835]Cmd: EDIT COPY
+[2022.03.15-23.25.23:886][865]Cmd: EDIT PASTE
+[2022.03.15-23.25.33:161][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube116)
+[2022.03.15-23.25.34:771][128]Cmd: DELETE
+[2022.03.15-23.25.34:771][128]Cmd: ACTOR DELETE
+[2022.03.15-23.25.34:773][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.25.34:778][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.15-23.25.34:779][128]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-23.25.35:779][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube117)
+[2022.03.15-23.26.10:407][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2022.03.15-23.26.12:087][594]Cmd: TRANSACTION UNDO
+[2022.03.15-23.26.12:087][594]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.15-23.26.14:629][851]Cmd: EDIT COPY
+[2022.03.15-23.26.14:884][881]Cmd: EDIT PASTE
+[2022.03.15-23.26.29:066][552]Cmd: TRANSACTION UNDO
+[2022.03.15-23.26.29:066][552]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.26.29:908][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2022.03.15-23.26.31:961][857]Cmd: DELETE
+[2022.03.15-23.26.31:961][857]Cmd: ACTOR DELETE
+[2022.03.15-23.26.31:964][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.26.31:964][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.26.31:968][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.15-23.26.31:969][857]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2022.03.15-23.27.33:383][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2022.03.15-23.27.35:182][414]Cmd: EDIT COPY
+[2022.03.15-23.27.35:462][447]Cmd: EDIT PASTE
+[2022.03.15-23.28.10:620][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2022.03.15-23.28.24:288][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2022.03.15-23.28.31:414][947]Cmd: TRANSACTION UNDO
+[2022.03.15-23.28.31:414][947]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.28.50:684][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2022.03.15-23.28.53:372][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2022.03.15-23.28.56:225][865]Cmd: EDIT COPY
+[2022.03.15-23.28.56:642][915]Cmd: EDIT PASTE
+[2022.03.15-23.28.58:943][186]Cmd: TRANSACTION UNDO
+[2022.03.15-23.28.58:943][186]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.29.36:736][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube116)
+[2022.03.15-23.29.38:572][789]Cmd: DELETE
+[2022.03.15-23.29.38:572][789]Cmd: ACTOR DELETE
+[2022.03.15-23.29.38:574][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.29.38:575][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.29.38:579][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.15-23.29.38:580][789]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2022.03.15-23.29.44:699][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2022.03.15-23.29.47:349][827]Cmd: EDIT COPY
+[2022.03.15-23.29.47:623][858]Cmd: EDIT PASTE
+[2022.03.15-23.30.06:383][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube121)
+[2022.03.15-23.30.07:854][179]Cmd: DELETE
+[2022.03.15-23.30.07:854][179]Cmd: ACTOR DELETE
+[2022.03.15-23.30.07:856][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.30.07:857][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.30.07:861][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.15-23.30.07:862][179]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2022.03.15-23.30.08:928][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2022.03.15-23.30.09:078][322]Cmd: DELETE
+[2022.03.15-23.30.09:078][322]Cmd: ACTOR DELETE
+[2022.03.15-23.30.09:080][322]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.30.09:085][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.15-23.30.09:085][322]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.15-23.30.09:993][431]Cmd: TRANSACTION UNDO
+[2022.03.15-23.30.09:993][431]LogEditorTransaction: Undo Delete Actors
+[2022.03.15-23.30.16:811][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2022.03.15-23.30.21:543][711]Cmd: EDIT COPY
+[2022.03.15-23.30.21:772][738]Cmd: EDIT PASTE
+[2022.03.15-23.30.27:945][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2022.03.15-23.30.32:308][964]Cmd: TRANSACTION UNDO
+[2022.03.15-23.30.32:308][964]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.30.32:616][975]Cmd: TRANSACTION UNDO
+[2022.03.15-23.30.32:616][975]LogEditorTransaction: Undo Move Actors
+[2022.03.15-23.30.40:008][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2022.03.15-23.30.40:922][894]Cmd: DELETE
+[2022.03.15-23.30.40:923][894]Cmd: ACTOR DELETE
+[2022.03.15-23.30.40:925][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.30.40:930][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.15-23.30.40:931][894]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.15-23.30.58:605][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2022.03.15-23.30.58:910][ 31]Cmd: EDIT COPY
+[2022.03.15-23.30.59:153][ 55]Cmd: EDIT PASTE
+[2022.03.15-23.31.46:719][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.15-23.31.46:757][696]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto4F5630A454CFAF577C215379853694B0D.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto4.umap'
+[2022.03.15-23.31.46:758][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.043
+[2022.03.15-23.31.46:758][696]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.03.15-23.32.36:670][671]Cmd: EDIT COPY
+[2022.03.15-23.32.36:911][691]Cmd: EDIT PASTE
+[2022.03.15-23.32.40:908][151]Cmd: EDIT COPY
+[2022.03.15-23.32.41:146][179]Cmd: EDIT PASTE
+[2022.03.15-23.32.46:981][874]Cmd: EDIT COPY
+[2022.03.15-23.32.47:234][899]Cmd: EDIT PASTE
+[2022.03.15-23.33.00:136][412]Cmd: EDIT COPY
+[2022.03.15-23.33.00:469][452]Cmd: EDIT PASTE
+[2022.03.15-23.33.32:640][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.33.37:719][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube135)
+[2022.03.15-23.33.40:969][145]Cmd: EDIT COPY
+[2022.03.15-23.33.41:266][180]Cmd: EDIT PASTE
+[2022.03.15-23.33.52:852][529]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight16)
+[2022.03.15-23.34.03:245][689]Cmd: EDIT COPY
+[2022.03.15-23.34.03:460][705]Cmd: EDIT PASTE
+[2022.03.15-23.34.06:984][ 68]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2022.03.15-23.34.09:188][326]Cmd: DELETE
+[2022.03.15-23.34.09:188][326]Cmd: ACTOR DELETE
+[2022.03.15-23.34.09:191][326]LogEditorActor: Deleted Actor: PointLight
+[2022.03.15-23.34.09:191][326]LogEditorActor: Deleted Actor: PointLight
+[2022.03.15-23.34.09:196][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.15-23.34.09:197][326]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2022.03.15-23.34.15:302][ 58]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2022.03.15-23.34.15:763][111]Cmd: EDIT COPY
+[2022.03.15-23.34.16:018][141]Cmd: EDIT PASTE
+[2022.03.15-23.34.47:216][862]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight14)
+[2022.03.15-23.34.47:628][909]Cmd: EDIT COPY
+[2022.03.15-23.34.47:859][936]Cmd: EDIT PASTE
+[2022.03.15-23.34.49:735][157]Cmd: EDIT COPY
+[2022.03.15-23.34.50:015][190]Cmd: EDIT PASTE
+[2022.03.15-23.34.51:692][388]Cmd: EDIT COPY
+[2022.03.15-23.34.51:997][424]Cmd: EDIT PASTE
+[2022.03.15-23.34.59:422][284]Cmd: EDIT COPY
+[2022.03.15-23.34.59:694][316]Cmd: EDIT PASTE
+[2022.03.15-23.35.11:265][634]Cmd: EDIT COPY
+[2022.03.15-23.35.11:513][663]Cmd: EDIT PASTE
+[2022.03.15-23.35.15:861][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.15-23.35.18:091][426]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight26)
+[2022.03.15-23.35.18:989][525]Cmd: EDIT COPY
+[2022.03.15-23.35.19:227][542]Cmd: EDIT PASTE
+[2022.03.15-23.35.28:628][565]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.41.46:614][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.15-23.41.46:640][867]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto520F789E3407675E5692BD0A4B956F8F0.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto5.umap'
+[2022.03.15-23.41.46:641][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.032
+[2022.03.15-23.41.46:641][867]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.03.15-23.46.53:504][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.46.53:962][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2022.03.15-23.46.55:405][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2022.03.15-23.47.23:524][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.03.15-23.47.43:983][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.03.15-23.51.08:688][943]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.51.15:728][718]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.51.23:971][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.15-23.51.38:580][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2022.03.15-23.51.39:215][405]Cmd: EDIT COPY
+[2022.03.15-23.51.39:591][450]Cmd: EDIT PASTE
+[2022.03.15-23.51.40:717][582]Cmd: DELETE
+[2022.03.15-23.51.40:718][582]Cmd: ACTOR DELETE
+[2022.03.15-23.51.40:720][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.15-23.51.40:726][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.15-23.51.40:727][582]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.15-23.52.25:728][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.15-23.52.25:753][139]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto6C3BE57C64E972C6492BBD781CB4B2EE6.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto6.umap'
+[2022.03.15-23.52.25:754][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.031
+[2022.03.15-23.52.25:754][139]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2022.03.15-23.57.36:406][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube133)
+[2022.03.15-23.57.38:760][319]Cmd: EDIT COPY
+[2022.03.15-23.57.39:065][355]Cmd: EDIT PASTE
+[2022.03.15-23.58.14:215][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2022.03.15-23.58.15:890][670]Cmd: POLY SELECT ADJACENT WALLS
+[2022.03.15-23.58.19:775][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube144)
+[2022.03.16-00.02.25:832][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.16-00.02.25:859][605]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto7D3CB5A994A333B7A2699869DDC93201D.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto7.umap'
+[2022.03.16-00.02.25:860][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.033
+[2022.03.16-00.02.25:860][605]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.03.16-00.03.56:502][427]Cmd: DELETE
+[2022.03.16-00.03.56:503][427]Cmd: ACTOR DELETE
+[2022.03.16-00.03.56:506][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.03.56:506][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.03.56:506][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.03.56:506][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.03.56:511][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.03.16-00.03.56:512][427]LogEditorActor: Deleted 4 Actors (0.009 secs)
+[2022.03.16-00.07.16:500][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2022.03.16-00.07.17:179][472]Cmd: EDIT COPY
+[2022.03.16-00.07.17:472][505]Cmd: EDIT PASTE
+[2022.03.16-00.07.52:462][490]Cmd: EDIT COPY
+[2022.03.16-00.07.52:742][518]Cmd: EDIT PASTE
+[2022.03.16-00.08.02:588][639]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.08.03:911][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2022.03.16-00.08.09:729][458]Cmd: EDIT COPY
+[2022.03.16-00.08.10:011][482]Cmd: EDIT PASTE
+[2022.03.16-00.09.42:122][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2022.03.16-00.09.47:658][981]Cmd: EDIT COPY
+[2022.03.16-00.09.47:939][  1]Cmd: EDIT PASTE
+[2022.03.16-00.09.54:588][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2022.03.16-00.09.56:140][966]Cmd: DELETE
+[2022.03.16-00.09.56:140][966]Cmd: ACTOR DELETE
+[2022.03.16-00.09.56:143][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.09.56:149][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.16-00.09.56:150][966]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.16-00.12.23:806][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube143)
+[2022.03.16-00.12.33:229][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2022.03.16-00.12.35:904][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.12.45:889][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2022.03.16-00.12.46:460][266]Cmd: EDIT COPY
+[2022.03.16-00.12.46:669][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.03.16-00.12.46:696][288]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto857C94CB1426AC0F077AEA3844F8D7E89.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto8.umap'
+[2022.03.16-00.12.46:697][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.032
+[2022.03.16-00.12.46:697][288]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.03.16-00.12.46:799][299]Cmd: EDIT PASTE
+[2022.03.16-00.12.57:137][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.16-00.13.16:974][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2022.03.16-00.13.24:030][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.16-00.13.25:020][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2022.03.16-00.13.53:891][ 14]Cmd: EDIT COPY
+[2022.03.16-00.13.54:158][ 45]Cmd: EDIT PASTE
+[2022.03.16-00.14.00:744][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2022.03.16-00.14.01:561][863]Cmd: EDIT COPY
+[2022.03.16-00.14.01:890][901]Cmd: EDIT PASTE
+[2022.03.16-00.14.05:048][259]Cmd: DELETE
+[2022.03.16-00.14.05:048][259]Cmd: ACTOR DELETE
+[2022.03.16-00.14.05:051][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-00.14.05:056][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.16-00.14.05:057][259]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.16-00.14.05:789][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2022.03.16-00.14.16:525][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2022.03.16-00.14.19:542][943]Cmd: EDIT COPY
+[2022.03.16-00.14.19:822][964]Cmd: EDIT PASTE
+[2022.03.16-00.14.49:808][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube145)
+[2022.03.16-00.15.11:816][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2022.03.16-00.15.15:521][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.15.31:467][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.16-00.16.26:545][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2022.03.16-00.16.34:042][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.16.39:725][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2022.03.16-00.16.44:515][845]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.16.46:951][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2022.03.16-00.16.56:035][186]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.19.25:744][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2022.03.16-00.20.09:103][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.16-00.22.55:140][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.16-00.22.55:200][444]LogSavePackage: Moving '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Hospital_Auto9C8A0C06D4FEF3B635052E988EFCC2F28.tmp' to '../../../../../../Year 2 FMP 15.04.22 clone/Year 2 FMP 15.04.22 clone file/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/Hospital_Auto9.umap'
+[2022.03.16-00.22.55:201][444]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Hospital' took 0.067
+[2022.03.16-00.22.55:201][444]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
