@@ -30537,3 +30537,909 @@ FirstPersonCharacter_C.InpActEvt_Door_K2Node_InputActionEvent_0
 [2022.03.21-13.00.58:649][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Blueprints/Starter/HUD.HUD
 [2022.03.21-13.00.58:651][736]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2022.03.21-13.00.58:651][736]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Sanity.Sanity
+[2022.03.21-13.06.53:697][549]Cmd: DELETE
+[2022.03.21-13.06.53:697][549]Cmd: ACTOR DELETE
+[2022.03.21-13.06.53:699][549]LogEditorActor: Deleted Actor: Torchpickup_C
+[2022.03.21-13.06.53:749][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.03.21-13.06.53:765][549]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2022.03.21-13.06.54:540][641]LogEditorViewport: Clicking on Actor (LMB): Sanity_C (Sanity)
+[2022.03.21-13.07.24:932][689]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-13.07.25:035][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.03.21-13.07.25:366][689]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacterC6C4B9B84B62C7A2F4F4B8BEDB7A1045.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-13.07.25:395][689]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-13.07.25:395][689]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-13.07.27:634][927]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.07.27:645][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.07.27:645][927]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:07:27)
+[2022.03.21-13.07.27:645][927]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.07.27:655][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009548s)
+[2022.03.21-13.07.27:656][927]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.07.27:656][927]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2022.03.21-13.07.27:656][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010926s)
+[2022.03.21-13.07.27:701][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.03.21-13.07.27:705][927]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.07.27:705][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.07.27:705][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.07.27:706][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.07.27:706][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.07.27:706][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.07.27:706][927]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.07.27:708][927]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.07.27:708][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.07.27:708][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.07.27:708][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.07.27:709][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.07.27:709][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.07.27:709][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.07.27:710][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.07.27:710][927]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.07.27:710][927]LogInit: FAudioDevice initialized.
+[2022.03.21-13.07.27:710][927]LogAudio: Display: Audio Device (ID: 101) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.07.27:758][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.07.27:759][927]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.07.27:761][927]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.07.27
+[2022.03.21-13.07.27:761][927]LogWorld: Bringing up level for play took: 0.001724
+[2022.03.21-13.07.27:761][927]LogOnline: OSS: Creating online subsystem instance for: :Context_127
+[2022.03.21-13.07.27:766][927]PIE: Server logged in
+[2022.03.21-13.07.27:769][927]PIE: Play in editor total start time 0.127 seconds.
+[2022.03.21-13.07.36:643][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.07.36:643][981]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.07.36:644][981]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.07.36:652][981]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.07.36:653][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.07.36:661][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.07.36:673][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.07.36:710][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-13.07.36:711][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.07.36:711][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.07.36:711][981]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.07.36:718][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.03.21-13.07.36:750][982]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2022.03.21-13.07.45:846][909]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-13.07.45:946][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.03.21-13.07.46:251][909]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacterD7F6196546876CB782FA119B077BF252.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-13.07.46:292][909]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-13.07.46:292][909]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-13.07.47:840][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.07.47:851][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.07.47:851][ 73]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:07:47)
+[2022.03.21-13.07.47:851][ 73]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.07.47:861][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009702s)
+[2022.03.21-13.07.47:862][ 73]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.07.47:862][ 73]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2022.03.21-13.07.47:862][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011048s)
+[2022.03.21-13.07.47:907][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.03.21-13.07.47:909][ 73]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2022.03.21-13.07.47:909][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.07.47:909][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.07.47:909][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.07.47:909][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.07.47:910][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.07.47:910][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.07.47:910][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.07.47:910][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.07.47:910][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.07.47:910][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.07.47:910][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.07.47:910][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.07.47:911][ 73]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.07.47:912][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.07.47:913][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.07.47:913][ 73]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.07.47:914][ 73]LogInit: FAudioDevice initialized.
+[2022.03.21-13.07.47:914][ 73]LogAudio: Display: Audio Device (ID: 102) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.07.47:967][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.07.47:967][ 73]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.07.47:973][ 73]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.07.47
+[2022.03.21-13.07.47:973][ 73]LogWorld: Bringing up level for play took: 0.003972
+[2022.03.21-13.07.47:973][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2022.03.21-13.07.47:982][ 73]PIE: Server logged in
+[2022.03.21-13.07.47:984][ 73]PIE: Play in editor total start time 0.136 seconds.
+[2022.03.21-13.07.53:223][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.07.53:223][692]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.07.53:225][692]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.07.53:236][692]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.07.53:236][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.07.53:245][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.07.53:258][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.07.53:295][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-13.07.53:295][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.07.53:296][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.07.53:296][692]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.07.53:332][692]LogUObjectHash: Compacting FUObjectHashTables data took  14.42ms
+[2022.03.21-13.07.53:368][693]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2022.03.21-13.08.04:367][828]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-13.08.04:467][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.03.21-13.08.04:764][828]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter5F86CD4F4D3F6068D715EBA70F4E2FED.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-13.08.04:792][828]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-13.08.04:792][828]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-13.08.06:615][ 27]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.08.06:628][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.08.06:628][ 27]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:08:06)
+[2022.03.21-13.08.06:628][ 27]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.08.06:638][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009122s)
+[2022.03.21-13.08.06:638][ 27]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.08.06:639][ 27]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2022.03.21-13.08.06:639][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010330s)
+[2022.03.21-13.08.06:683][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.03.21-13.08.06:686][ 27]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.08.06:686][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.08.06:686][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.08.06:686][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.08.06:686][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.08.06:686][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.08.06:688][ 27]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.08.06:688][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.08.06:688][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.08.06:688][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.08.06:689][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.08.06:689][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.08.06:689][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.08.06:690][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.08.06:690][ 27]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.08.06:691][ 27]LogInit: FAudioDevice initialized.
+[2022.03.21-13.08.06:692][ 27]LogAudio: Display: Audio Device (ID: 103) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.08.06:743][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.08.06:744][ 27]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.08.06:746][ 27]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.08.06
+[2022.03.21-13.08.06:746][ 27]LogWorld: Bringing up level for play took: 0.001608
+[2022.03.21-13.08.06:746][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2022.03.21-13.08.06:751][ 27]PIE: Server logged in
+[2022.03.21-13.08.06:752][ 27]PIE: Play in editor total start time 0.129 seconds.
+[2022.03.21-13.08.12:665][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.08.12:666][721]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.08.12:667][721]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.08.12:677][721]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.08.12:678][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.08.12:689][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.08.12:701][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.08.12:738][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-13.08.12:738][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.08.12:739][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.08.12:739][721]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.08.12:762][721]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2022.03.21-13.08.12:801][722]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2022.03.21-13.08.38:459][321]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-13.08.38:561][321]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.03.21-13.08.38:869][321]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacterA7C198744F6B207A6E66C7814CBC87D9.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-13.08.38:896][321]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-13.08.38:896][321]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-13.08.40:686][490]LogEditorViewport: Clicking Background
+[2022.03.21-13.08.43:835][837]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.08.43:846][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.08.43:846][837]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:08:43)
+[2022.03.21-13.08.43:846][837]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.08.43:855][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008799s)
+[2022.03.21-13.08.43:856][837]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.08.43:857][837]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2022.03.21-13.08.43:857][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010185s)
+[2022.03.21-13.08.43:903][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.03.21-13.08.43:905][837]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2022.03.21-13.08.43:905][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.08.43:905][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.08.43:905][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.08.43:905][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.08.43:906][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.08.43:906][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.08.43:906][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.08.43:906][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.08.43:906][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.08.43:906][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.08.43:906][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.08.43:906][837]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.08.43:907][837]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.08.43:908][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.08.43:908][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.08.43:908][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.08.43:908][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.08.43:908][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.08.43:908][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.08.43:909][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.08.43:909][837]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.08.43:910][837]LogInit: FAudioDevice initialized.
+[2022.03.21-13.08.43:910][837]LogAudio: Display: Audio Device (ID: 104) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.08.43:968][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.08.43:969][837]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.08.43:971][837]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.08.43
+[2022.03.21-13.08.43:971][837]LogWorld: Bringing up level for play took: 0.001870
+[2022.03.21-13.08.43:971][837]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2022.03.21-13.08.43:977][837]PIE: Server logged in
+[2022.03.21-13.08.43:978][837]PIE: Play in editor total start time 0.136 seconds.
+[2022.03.21-13.08.48:940][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.08.48:940][423]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.08.48:941][423]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.08.48:951][423]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.08.48:951][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.08.48:960][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.08.48:968][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.08.49:005][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.08.49:006][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.08.49:006][423]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.08.49:021][423]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2022.03.21-13.08.49:047][424]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2022.03.21-13.10.23:204][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Doors/Door.Door
+[2022.03.21-13.11.11:036][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.03.21-13.11.11:060][ 56]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonExampleMap_Auto6AACB4E504DF1D0743450BDB00D7C5E48.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2022.03.21-13.11.11:061][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.072
+[2022.03.21-13.11.11:061][ 56]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2022.03.21-13.11.11:062][ 56]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/Doors/Door] ([2] browsable assets)...
+[2022.03.21-13.11.11:069][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Doors/Door.Door]
+[2022.03.21-13.11.11:070][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Doors/Door]
+[2022.03.21-13.11.11:082][ 56]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Door_Auto65F48C85D404D9FBAB8831385F126C7BC.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Doors/Door_Auto6.uasset'
+[2022.03.21-13.11.11:082][ 56]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.03.21-13.11.28:822][793]BlueprintLog: New page: Compile Door
+[2022.03.21-13.11.28:894][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.03.21-13.11.29:050][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Door" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Door.uasset" SILENT=true
+[2022.03.21-13.11.29:063][793]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/DoorB64A5005414982FC12F94C822B5A99C1.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Door.uasset'
+[2022.03.21-13.11.29:078][793]AssetCheck: New page: Asset Save: Door
+[2022.03.21-13.11.29:078][793]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Door.Door
+[2022.03.21-13.12.28:393][551]LogContentBrowser: Deferred new asset file creation: Door1
+[2022.03.21-13.12.28:410][551]LogContentBrowser: Creating deferred item: Door1
+[2022.03.21-13.12.31:130][863]LogContentBrowser: Attempting asset rename: Door1 -> Ddoor
+[2022.03.21-13.12.31:277][863]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2022.03.21-13.12.31:402][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.12.31:414][863]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor2128F8F842F4D70AEBBD11A953DBD256.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.12.31:828][863]LogContentBrowser: End creating deferred item Door1
+[2022.03.21-13.12.31:838][863]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.12.31:838][863]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.12.32:906][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.13.24:315][717]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.13.24:390][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.03.21-13.13.24:536][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.13.24:553][717]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor733CF4674833B087A3B3FC8889AAC125.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.13.24:567][717]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.13.24:567][717]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.17.39:009][403]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.17.39:189][403]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2022.03.21-13.17.39:317][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.17.39:335][403]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor50DDE4BB44E868F9298AA397CC4E80A2.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.17.39:349][403]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.17.39:349][403]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.17.55:720][180]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.17.55:798][180]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2022.03.21-13.17.55:938][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.17.55:955][180]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor2C8716454847EAEFC024B480550CC7F1.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.17.55:970][180]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.17.55:970][180]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.18.22:318][ 52]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.18.22:394][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.03.21-13.18.22:540][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.18.22:557][ 52]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor6EE922184FC0CD307DDF2A96E4FE155D.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.18.22:571][ 52]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.18.22:571][ 52]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.19.22:645][730]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.21-13.20.06:237][395]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.20.06:318][395]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.03.21-13.20.06:480][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.20.06:498][395]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/DdoorF2575A8A4D6C2610600440AFD074706C.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.20.06:511][395]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.20.06:511][395]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.20.49:983][  6]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.20.50:062][  6]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2022.03.21-13.20.50:204][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.20.50:222][  6]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor632E4DD44610AECA8FDE9C8B1A91A066.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.20.50:237][  6]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.20.50:237][  6]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.21.09:733][131]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.21.09:733][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.22.43:646][418]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.22.43:736][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2022.03.21-13.22.43:887][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.22.43:906][418]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor4A7E8C63412C5FF24CAE1B86A2BB4A09.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.22.43:919][418]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.22.43:919][418]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.25.54:690][863]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.25.54:776][863]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2022.03.21-13.25.54:921][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.25.54:940][863]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor6368B50640BD57FFC34A3BBDB515F057.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.25.54:953][863]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.25.54:954][863]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.26.23:431][969]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.03.21-13.26.23:458][969]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonExampleMap_Auto7D6F1B8844CB0D3EAB981DFAFA8B5AB74.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2022.03.21-13.26.23:460][969]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.075
+[2022.03.21-13.26.23:460][969]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.03.21-13.27.46:386][101]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.27.46:472][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2022.03.21-13.27.46:610][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.27.46:628][101]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/DdoorFDA1FB9D4D89B841E3D8BFAE5D569165.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.27.46:643][101]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.27.46:643][101]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.28.11:149][788]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.28.11:224][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2022.03.21-13.28.11:379][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.28.11:396][788]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor2108B0BF4F071B721232BDB0D6DA40D1.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.28.11:410][788]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.28.11:411][788]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.30.48:574][ 37]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:574][ 37]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:582][ 38]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:590][ 39]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:599][ 40]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:607][ 41]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:615][ 42]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:623][ 43]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:632][ 44]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:640][ 45]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:649][ 46]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:657][ 47]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:666][ 48]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:674][ 49]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:682][ 50]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.30.48:689][ 51]LogScript: Warning: Accessed None trying to read property Ppoint
+	Ddoor_C /Engine/Transient.World_56:PersistentLevel.Ddoor_C_55
+	Function /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor_C:ExecuteUbergraph_Ddoor:0381
+[2022.03.21-13.31.36:850][335]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.31.36:854][335]LogBlueprint: Error: [AssetLog] D:\BigkennethYr2FMP\BigkennethYr2FMP\Bigkenneth\Content\FirstPersonBP\Blueprints\Doors\Ddoor.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2022.03.21-13.31.36:932][335]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2022.03.21-13.32.44:483][454]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.32.44:562][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.03.21-13.32.44:712][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.32.44:731][454]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor05165FAB40F9F56BA2B6EBA1C8B5011B.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.32.44:746][454]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.32.44:746][454]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.35.18:516][779]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.35.18:600][779]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2022.03.21-13.35.18:741][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.35.18:758][779]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor1B220FDF473E5B741BD310BC5FA7FCEB.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.35.18:774][779]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.35.18:774][779]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.36.40:681][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.03.21-13.36.40:693][466]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.062
+[2022.03.21-13.36.40:693][466]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/Doors/Ddoor] ([2] browsable assets)...
+[2022.03.21-13.36.40:701][466]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor]
+[2022.03.21-13.36.40:701][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Doors/Ddoor]
+[2022.03.21-13.36.40:719][466]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor_Auto898E0AA8D4F5518713082F2830C572E3E.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Doors/Ddoor_Auto8.uasset'
+[2022.03.21-13.36.40:720][466]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.03.21-13.43.53:579][213]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.43.53:704][213]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.03.21-13.43.54:175][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.43.54:193][213]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor97D4E93048015E03CB13A6B35222E190.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.43.54:208][213]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.43.54:208][213]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.45.08:840][409]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.45.08:915][409]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2022.03.21-13.45.09:063][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.45.09:081][409]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor7C9269EA4AE9892663BF929A5309F05D.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.45.09:096][409]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.45.09:096][409]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.45.43:898][200]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.45.43:972][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.03.21-13.45.44:118][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.45.44:136][200]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor306FCC94497D39EB80EDDDBAC3E9C40C.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.45.44:149][200]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.45.44:149][200]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.46.46:761][217]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Doors/Door.Door
+[2022.03.21-13.46.48:599][373]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.46.48:599][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.46.55:589][168]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.46.55:607][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.46.55:607][168]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:46:55)
+[2022.03.21-13.46.55:608][168]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.46.55:618][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010167s)
+[2022.03.21-13.46.55:619][168]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.46.55:619][168]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2022.03.21-13.46.55:619][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011447s)
+[2022.03.21-13.46.55:672][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.03.21-13.46.55:676][168]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.46.55:676][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.46.55:676][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.46.55:677][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.46.55:677][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.46.55:677][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.46.55:677][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.46.55:678][168]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.46.55:679][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.46.55:679][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.46.55:679][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.46.55:679][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.46.55:679][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.46.55:679][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.46.55:680][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.46.55:680][168]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.46.55:681][168]LogInit: FAudioDevice initialized.
+[2022.03.21-13.46.55:681][168]LogAudio: Display: Audio Device (ID: 105) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.46.55:728][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.46.55:728][168]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.46.55:731][168]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.46.55
+[2022.03.21-13.46.55:731][168]LogWorld: Bringing up level for play took: 0.002025
+[2022.03.21-13.46.55:731][168]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2022.03.21-13.46.55:737][168]PIE: Server logged in
+[2022.03.21-13.46.55:739][168]PIE: Play in editor total start time 0.142 seconds.
+[2022.03.21-13.47.04:702][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.47.04:703][226]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.47.04:704][226]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.47.04:711][226]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.47.04:712][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.47.04:722][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.47.04:735][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.47.04:774][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-13.47.04:774][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.47.04:775][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.47.04:775][226]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.47.04:800][226]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2022.03.21-13.47.04:838][227]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2022.03.21-13.47.07:848][571]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.47.07:859][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.47.07:860][571]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:47:07)
+[2022.03.21-13.47.07:860][571]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.47.07:870][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010525s)
+[2022.03.21-13.47.07:871][571]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.47.07:871][571]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2022.03.21-13.47.07:871][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011731s)
+[2022.03.21-13.47.07:916][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.03.21-13.47.07:919][571]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.47.07:919][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.47.07:919][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.47.07:919][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.47.07:919][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.47.07:919][571]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.47.07:921][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.47.07:921][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.47.07:923][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.47.07:923][571]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.47.07:923][571]LogInit: FAudioDevice initialized.
+[2022.03.21-13.47.07:923][571]LogAudio: Display: Audio Device (ID: 106) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.47.07:983][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.47.07:983][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.47.07:985][571]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.47.07
+[2022.03.21-13.47.07:986][571]LogWorld: Bringing up level for play took: 0.001822
+[2022.03.21-13.47.07:986][571]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2022.03.21-13.47.07:992][571]PIE: Server logged in
+[2022.03.21-13.47.07:994][571]PIE: Play in editor total start time 0.14 seconds.
+[2022.03.21-13.47.10:075][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.47.10:075][809]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.47.10:077][809]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.47.10:120][809]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.47.10:121][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.47.10:145][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.47.10:161][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.47.10:201][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.47.10:202][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.47.10:202][809]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.47.10:211][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.03.21-13.47.10:246][810]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2022.03.21-13.47.23:849][275]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.47.23:936][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2022.03.21-13.47.24:856][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.47.24:874][275]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor9EA0C6BC4B6352DCD2FB1389167E48BF.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.47.24:895][275]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.47.24:895][275]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.48.43:383][203]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-13.48.43:493][203]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.03.21-13.48.43:846][203]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter10DED97E41CD279A47D84FBC37A7E340.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-13.48.43:876][203]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-13.48.43:876][203]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-13.51.27:472][159]LogContentBrowser: Deferred new asset file creation: Lockeddoor1
+[2022.03.21-13.51.27:506][159]LogContentBrowser: Creating deferred item: Lockeddoor1
+[2022.03.21-13.51.35:595][991]LogContentBrowser: Attempting asset rename: Lockeddoor1 -> LockedDdoor
+[2022.03.21-13.51.35:752][991]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2022.03.21-13.51.35:875][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.51.35:887][991]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor0BD2BE44497D14A211959794125444E6.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.51.36:268][991]LogContentBrowser: End creating deferred item Lockeddoor1
+[2022.03.21-13.51.36:278][991]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.51.36:278][991]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.51.37:432][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.54.24:212][755]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.03.21-13.54.24:236][755]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonExampleMap_Auto9B91DFCA34CB70ED13AADD1BD1BAA1908.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2022.03.21-13.54.24:238][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.083
+[2022.03.21-13.54.24:238][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2022.03.21-13.54.24:238][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter] ([4] browsable assets)...
+[2022.03.21-13.54.24:238][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter]
+[2022.03.21-13.54.24:348][755]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter_Auto958363B2A410698068CA3D19A961F64C7.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter_Auto9.uasset'
+[2022.03.21-13.54.24:349][755]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/Doors/Ddoor] ([2] browsable assets)...
+[2022.03.21-13.54.24:358][755]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor]
+[2022.03.21-13.54.24:358][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Doors/Ddoor]
+[2022.03.21-13.54.24:375][755]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor_Auto90B1EFDBD43CF6588C3D286992226C8E6.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Doors/Ddoor_Auto9.uasset'
+[2022.03.21-13.54.24:376][755]LogFileHelpers: Auto-saving content packages took 0.138
+[2022.03.21-13.54.32:209][520]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.54.32:213][520]LogBlueprint: Warning: [AssetLog] D:\BigkennethYr2FMP\BigkennethYr2FMP\Bigkenneth\Content\FirstPersonBP\Blueprints\Doors\LockedDdoor.uasset: [Compiler] Could not find a variable named "Ppoint1" in 'LockedDdoor_C'.
+Make sure 'LockedDdoor_C' has been compiled for  Get Ppoint1
+[2022.03.21-13.54.32:214][520]LogBlueprint: Error: [AssetLog] D:\BigkennethYr2FMP\BigkennethYr2FMP\Bigkenneth\Content\FirstPersonBP\Blueprints\Doors\LockedDdoor.uasset: [Compiler] The property associated with  Ppoint 1  could not be found in '/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor_C'
+[2022.03.21-13.54.32:284][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.03.21-13.55.06:041][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.03.21-13.55.06:041][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.03.21-13.55.06:041][586]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2022.03.21-13.55.13:952][295]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.55.14:034][295]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2022.03.21-13.55.14:188][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.55.14:205][295]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor36B0BCC645422BF52D2956B81BEFFDB3.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.55.14:219][295]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.55.14:219][295]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.56.01:515][836]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.56.01:595][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2022.03.21-13.56.01:740][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.56.01:757][836]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor86D82BFC4107C0C4740ECBA1E726248E.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.56.01:772][836]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.56.01:772][836]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.56.37:607][459]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.56.37:686][459]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.03.21-13.56.37:822][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.56.37:841][459]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor5853558849D8679BF9D6C88A6EC26C1E.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.56.37:855][459]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.56.37:855][459]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.58.51:084][315]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.58.51:172][315]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2022.03.21-13.58.51:319][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.58.51:338][315]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor289C51104A14C5F6F9F27F9391CA1CB8.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.58.51:351][315]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.58.51:351][315]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.58.53:220][496]BlueprintLog: New page: Compile Ddoor
+[2022.03.21-13.58.53:348][496]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.03.21-13.58.53:520][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-13.58.53:538][496]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor4E606B004DBB633092CD26B86FFDAABE.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-13.58.53:552][496]AssetCheck: New page: Asset Save: Ddoor
+[2022.03.21-13.58.53:552][496]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-13.59.15:076][540]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.59.15:157][540]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.03.21-13.59.15:302][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.59.15:319][540]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor736E1A3E464AD796A569959876BDCCE1.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.59.15:334][540]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.59.15:335][540]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-13.59.25:183][625]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-13.59.25:195][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-13.59.25:196][625]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 13:59:25)
+[2022.03.21-13.59.25:196][625]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.59.25:206][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010203s)
+[2022.03.21-13.59.25:207][625]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-13.59.25:207][625]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2022.03.21-13.59.25:207][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011556s)
+[2022.03.21-13.59.25:258][625]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2022.03.21-13.59.25:262][625]LogAudio: Display: Creating Audio Device:                 Id: 107, Scope: Unique, Realtime: True
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-13.59.25:262][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-13.59.25:262][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-13.59.25:263][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-13.59.25:263][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-13.59.25:263][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-13.59.25:263][625]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-13.59.25:264][625]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-13.59.25:264][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-13.59.25:264][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-13.59.25:264][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-13.59.25:265][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-13.59.25:265][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-13.59.25:265][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-13.59.25:266][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-13.59.25:266][625]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-13.59.25:267][625]LogInit: FAudioDevice initialized.
+[2022.03.21-13.59.25:267][625]LogAudio: Display: Audio Device (ID: 107) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-13.59.25:310][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.59.25:310][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-13.59.25:313][625]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-13.59.25
+[2022.03.21-13.59.25:313][625]LogWorld: Bringing up level for play took: 0.002030
+[2022.03.21-13.59.25:313][625]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2022.03.21-13.59.25:319][625]PIE: Server logged in
+[2022.03.21-13.59.25:320][625]PIE: Play in editor total start time 0.13 seconds.
+[2022.03.21-13.59.27:662][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-13.59.27:662][897]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-13.59.27:662][897]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-13.59.27:670][897]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-13.59.27:671][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.59.27:685][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-13.59.27:697][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-13.59.27:739][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-13.59.27:740][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.59.27:740][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-13.59.27:741][897]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-13.59.27:748][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.03.21-13.59.27:781][898]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2022.03.21-13.59.39:177][ 61]BlueprintLog: New page: Compile LockedDdoor
+[2022.03.21-13.59.39:267][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2022.03.21-13.59.39:403][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-13.59.39:421][ 61]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoor4B3CCD7C480D7B9453BF2AB6233122D1.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-13.59.39:437][ 61]AssetCheck: New page: Asset Save: LockedDdoor
+[2022.03.21-13.59.39:437][ 61]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
+[2022.03.21-14.01.16:890][791]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.21-14.01.17:008][791]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2022.03.21-14.01.17:364][791]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter549C665B4E7333063250F7AB51A9E6A8.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-14.01.17:394][791]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.03.21-14.01.17:394][791]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-14.01.22:782][349]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-14.01.22:794][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-14.01.22:794][349]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 14:01:22)
+[2022.03.21-14.01.22:794][349]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-14.01.22:805][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010569s)
+[2022.03.21-14.01.22:806][349]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-14.01.22:806][349]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2022.03.21-14.01.22:806][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011844s)
+[2022.03.21-14.01.22:856][349]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2022.03.21-14.01.22:859][349]LogAudio: Display: Creating Audio Device:                 Id: 108, Scope: Unique, Realtime: True
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-14.01.22:859][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-14.01.22:859][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-14.01.22:859][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-14.01.22:859][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-14.01.22:859][349]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-14.01.22:861][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-14.01.22:861][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-14.01.22:862][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-14.01.22:862][349]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-14.01.22:863][349]LogInit: FAudioDevice initialized.
+[2022.03.21-14.01.22:863][349]LogAudio: Display: Audio Device (ID: 108) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-14.01.22:928][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-14.01.22:929][349]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-14.01.22:935][349]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-14.01.22
+[2022.03.21-14.01.22:936][349]LogWorld: Bringing up level for play took: 0.004927
+[2022.03.21-14.01.22:936][349]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2022.03.21-14.01.22:948][349]PIE: Server logged in
+[2022.03.21-14.01.22:953][349]PIE: Play in editor total start time 0.163 seconds.
+[2022.03.21-14.01.32:959][545]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.32:959][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.33:151][568]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.33:151][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.33:351][592]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.33:351][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.35:309][827]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.35:309][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.35:309][827]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:173B
+[2022.03.21-14.01.35:309][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Open/closelockeddoor
+[2022.03.21-14.01.36:334][950]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.36:334][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.36:334][950]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:173B
+[2022.03.21-14.01.36:334][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Open/closelockeddoor
+[2022.03.21-14.01.37:342][ 71]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.37:342][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.37:342][ 71]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:173B
+[2022.03.21-14.01.37:342][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Open/closelockeddoor
+[2022.03.21-14.01.38:176][171]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.38:176][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.38:176][171]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:173B
+[2022.03.21-14.01.38:176][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Open/closelockeddoor
+[2022.03.21-14.01.38:642][227]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.01.38:643][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.01.38:643][227]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:173B
+[2022.03.21-14.01.38:643][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Open/closelockeddoor
+[2022.03.21-14.01.39:368][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-14.01.39:368][309]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-14.01.39:369][309]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-14.01.39:379][309]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-14.01.39:379][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-14.01.39:435][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-14.01.39:447][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-14.01.39:491][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-14.01.39:491][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-14.01.39:492][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-14.01.39:492][309]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-14.01.39:508][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.03.21-14.01.39:645][310]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2022.03.21-14.01.41:351][488]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-14.01.41:356][488]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-14.02.10:322][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.03.21-14.02.11:940][958]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.21-14.02.13:309][ 98]LogEditorViewport: Clicking on Actor (LMB): Key_C (Key)
+[2022.03.21-14.02.13:778][153]Cmd: DELETE
+[2022.03.21-14.02.13:778][153]Cmd: ACTOR DELETE
+[2022.03.21-14.02.13:779][153]LogEditorActor: Deleted Actor: Key_C
+[2022.03.21-14.02.13:825][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.21-14.02.13:827][153]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.03.21-14.02.17:083][536]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.21-14.02.17:095][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-14.02.17:095][536]PIE: New page: PIE session: FirstPersonExampleMap (21 Mar 2022, 14:02:17)
+[2022.03.21-14.02.17:095][536]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-14.02.17:105][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009810s)
+[2022.03.21-14.02.17:106][536]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-14.02.17:106][536]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2022.03.21-14.02.17:106][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011046s)
+[2022.03.21-14.02.17:154][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.03.21-14.02.17:157][536]LogAudio: Display: Creating Audio Device:                 Id: 109, Scope: Unique, Realtime: True
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-14.02.17:157][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-14.02.17:157][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-14.02.17:157][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-14.02.17:157][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-14.02.17:157][536]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Using Audio Device Unknown
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-14.02.17:159][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-14.02.17:159][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.21-14.02.17:160][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-14.02.17:160][536]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.03.21-14.02.17:161][536]LogInit: FAudioDevice initialized.
+[2022.03.21-14.02.17:161][536]LogAudio: Display: Audio Device (ID: 109) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-14.02.17:208][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-14.02.17:208][536]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-14.02.17:210][536]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-14.02.17
+[2022.03.21-14.02.17:211][536]LogWorld: Bringing up level for play took: 0.002001
+[2022.03.21-14.02.17:211][536]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2022.03.21-14.02.17:216][536]PIE: Server logged in
+[2022.03.21-14.02.17:218][536]PIE: Play in editor total start time 0.126 seconds.
+[2022.03.21-14.02.34:203][565]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:1230
+[2022.03.21-14.02.34:203][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsLockeddoor". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Branch
+[2022.03.21-14.02.37:881][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-14.02.37:881][  3]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-14.02.37:882][  3]LogSlate: Window 'Bigkenneth Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.21-14.02.37:891][  3]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-14.02.37:891][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-14.02.37:908][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-14.02.37:920][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-14.02.37:965][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-14.02.37:965][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-14.02.37:965][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-14.02.37:966][  3]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.03.21-14.02.38:004][  3]LogUObjectHash: Compacting FUObjectHashTables data took  14.43ms
+[2022.03.21-14.02.38:130][  4]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2022.03.21-14.02.41:137][335]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-14.02.41:141][335]LogSlate: Window 'Message Log' being destroyed
+[2022.03.21-14.04.22:752][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.03.21-14.04.22:779][421]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonExampleMapA1E56339424816BA93F64A8E89159D5D.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.21-14.04.22:805][421]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.100
+[2022.03.21-14.04.22:821][421]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.03.21-14.04.22:821][421]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:316][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/BigkennethYr2FMP/BigkennethYr2FMP'
+[2022.03.21-14.04.29:685][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Ddoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset" SILENT=true
+[2022.03.21-14.04.29:700][129]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Ddoor8DCA15AE471453116CC9D48971033F75.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset'
+[2022.03.21-14.04.29:701][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/Door" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Door.uasset" SILENT=true
+[2022.03.21-14.04.29:710][129]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/Door5613DF2F4D5D8077C08DAAB20EB3FDE3.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Door.uasset'
+[2022.03.21-14.04.29:710][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Doors/LockedDdoor" FILE="D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset" SILENT=true
+[2022.03.21-14.04.29:724][129]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/LockedDdoorE85EDA1A43A987F84CA25088D8F94C71.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset'
+[2022.03.21-14.04.29:834][129]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter242CC937464957F6BED2A2945789BDAC.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.03.21-14.04.29:885][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.03.21-14.04.29:913][129]LogSavePackage: Moving 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonExampleMap07E1A9A943E5DA9A1CFB8094485F5736.tmp' to 'D:/BigkennethYr2FMP/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.21-14.04.29:924][129]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.090
+[2022.03.21-14.04.41:545][129]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.21-14.04.43:732][129]LogSourceControl: commit successful: [programming-3 7dfdad6] Double doors implimented
+[2022.03.21-14.04.43:922][129]SourceControl: [programming-3 7dfdad6] Double doors implimented
+[2022.03.21-14.04.43:922][129]SourceControl:  Committer: Marshall Sharp <ms05254929@priestley.ac.uk>
+[2022.03.21-14.04.43:922][129]SourceControl: Your name and email address were configured automatically based
+[2022.03.21-14.04.43:922][129]SourceControl: on your username and hostname. Please check that they are accurate.
+[2022.03.21-14.04.43:922][129]SourceControl: You can suppress this message by setting them explicitly. Run the
+[2022.03.21-14.04.43:922][129]SourceControl: following command and follow the instructions in your editor to edit
+[2022.03.21-14.04.43:922][129]SourceControl: your configuration file:
+[2022.03.21-14.04.43:922][129]SourceControl:     git config --global --edit
+[2022.03.21-14.04.43:922][129]SourceControl: After doing this, you may fix the identity used for this commit with:
+[2022.03.21-14.04.43:922][129]SourceControl:     git commit --amend --reset-author
+[2022.03.21-14.04.43:922][129]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2022.03.21-14.04.43:922][129]SourceControl:  create mode 100644 Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/Ddoor.uasset
+[2022.03.21-14.04.43:922][129]SourceControl:  create mode 100644 Bigkenneth/Content/FirstPersonBP/Blueprints/Doors/LockedDdoor.uasset
+[2022.03.21-14.04.43:922][129]SourceControl:  rewrite Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset (63%)
+[2022.03.21-14.04.43:932][129]SourceControl: Commited [programming-3 7dfdad6] Double doors implimented.
+[2022.03.21-14.04.43:973][130]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-14.04.43:973][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Door.Door
+[2022.03.21-14.04.43:974][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.21-14.04.43:974][130]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.21-14.04.43:974][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/Ddoor.Ddoor
+[2022.03.21-14.04.43:974][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Doors/LockedDdoor.LockedDdoor
