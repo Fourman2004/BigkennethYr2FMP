@@ -2560,3 +2560,454 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.08-19.36.40:075][854]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.08-19.36.40:075][854]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Ai/startchase.startchase
 [2022.05.08-19.36.40:075][854]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.08-19.37.44:407][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.05.08-19.37.45:314][222]LogLinker: Warning: [AssetLog] C:\Users\matsh\Documents\Unreal Projects\BigkennethYr2FMP\Bigkenneth\Content\SonniesModels\big_cubord\cubored.uasset: Failed to load '/Game/SonniesModels/big_cubord/lambert1': Can't find file.
+[2022.05.08-19.37.45:317][222]LogLinker: Warning: [AssetLog] C:\Users\matsh\Documents\Unreal Projects\BigkennethYr2FMP\Bigkenneth\Content\SonniesModels\big_cubord\cubored.uasset: Failed to load '/Game/SonniesModels/big_cubord/lambert1': Can't find file.
+[2022.05.08-19.37.45:318][222]LogLinker: Warning: [AssetLog] C:\Users\matsh\Documents\Unreal Projects\BigkennethYr2FMP\Bigkenneth\Content\SonniesModels\big_cubord\cubored.uasset: Failed to load '/Game/SonniesModels/big_cubord/lambert1': Can't find file.
+[2022.05.08-19.37.46:025][222]LogTexture: Display: Building textures: lambert1_Base_color_1001__3_ (OODLE_AutoDXT, 676X676)
+[2022.05.08-19.37.46:028][222]LogLinker: Warning: [AssetLog] C:\Users\matsh\Documents\Unreal Projects\BigkennethYr2FMP\Bigkenneth\Content\SonniesModels\big_cubord\cubored.uasset: Failed to load '/Game/SonniesModels/big_cubord/lambert1': Can't find file.
+[2022.05.08-19.37.46:029][222]LoadErrors: Failed to load /Game/SonniesModels/big_cubord/lambert1.lambert1 Referenced by cubored
+[2022.05.08-19.37.46:031][222]LogLinker: Warning: [AssetLog] C:\Users\matsh\Documents\Unreal Projects\BigkennethYr2FMP\Bigkenneth\Content\SonniesModels\big_cubord\cubored.uasset: Failed to load '/Game/SonniesModels/big_cubord/lambert1': Can't find file.
+[2022.05.08-19.37.46:937][222]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: EEDAE5D1318126ABBC0CC6A10066AD58CC0B96D7), compiling. 
+[2022.05.08-19.37.46:989][222]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.05.08-19.37.47:423][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.05.08-19.37.47:423][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2022.05.08-19.37.47:423][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2022.05.08-19.37.47:423][222]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.37.48:395][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BensModels/HospitalNew.HospitalNew
+[2022.05.08-19.37.48:395][222]Cmd: MAP LOAD FILE="../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/BensModels/HospitalNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.08-19.37.48:395][222]LightingResults: New page: Lighting Build
+[2022.05.08-19.37.48:395][222]LoadErrors: New page: Loading map: HospitalNew.umap
+[2022.05.08-19.37.48:419][222]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-19.37.48:420][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-19.37.48:420][222]MapCheck: New page: Map Check
+[2022.05.08-19.37.48:420][222]LightingResults: New page: Lighting Build
+[2022.05.08-19.37.56:475][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-19.37.56:513][222]LogUObjectHash: Compacting FUObjectHashTables data took  13.49ms
+[2022.05.08-19.37.56:532][222]LogAudio: Display: Audio Device (ID: 1) registered with world 'HospitalNew'.
+[2022.05.08-19.37.58:688][222]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2022.05.08-19.37.58:689][222]LogAIModule: Creating AISystem for world HospitalNew
+[2022.05.08-19.38.01:286][222]LogUObjectHash: Compacting FUObjectHashTables data took  15.75ms
+[2022.05.08-19.38.01:324][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.08-19.38.01:326][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.597ms to complete.
+[2022.05.08-19.38.01:326][222]LogFileHelpers: Loading map 'HospitalNew' took 12.931
+[2022.05.08-19.38.22:377][252]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Curtain_7)
+[2022.05.08-19.38.22:869][252]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2022.05.08-19.38.30:445][497]MapCheck: New page: Map Check
+[2022.05.08-19.38.30:471][497]LightingResults: New page: Lighting Build - 8 May 2022, 21:38:30
+[2022.05.08-19.38.31:098][497]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.05.08-19.38.31:352][497]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.05.08-19.38.31:453][497]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.05.08-19.38.33:431][497]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.05.08-19.38.33:431][497]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24964
+[2022.05.08-19.38.42:158][497]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.05.08-19.38.42:171][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.05.08-19.38.42:171][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.05.08-19.38.42:171][497]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.05.08-19.38.42:171][497]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.05.08-19.38.42:171][497]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.05.08-19.38.43:326][497]LogEditorBuildUtils: Build time 0:12
+[2022.05.08-19.38.44:067][500]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer pasted__frontdesk2 in PCD3D_SM5, Default, SM5 (DDC key hash: 04BC0913688A85FAE87AC2E4FEA0167E7E22429F), compiling. 
+[2022.05.08-19.38.44:082][500]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:085][500]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer pasted__frontdesk2 in PCD3D_SM5, Default, SM5 (DDC key hash: 285E77D52D53641E41B2E5C6FD7BC285286CE867), compiling. 
+[2022.05.08-19.38.44:101][500]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:122][501]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B4481F92DC06845789E7BA181DA318C50DDA6E5F), compiling. 
+[2022.05.08-19.38.44:134][501]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:137][501]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: D2DE2F54A7B8F29E8A56631C41CE5CF19BCBFDE0), compiling. 
+[2022.05.08-19.38.44:148][501]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:172][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer rugggg in PCD3D_SM5, Default, SM5 (DDC key hash: 28E12CCA664C152A0A834AB49FCD2FB3C695D32C), compiling. 
+[2022.05.08-19.38.44:187][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:190][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer rugggg in PCD3D_SM5, Default, SM5 (DDC key hash: C1C98B7048F7A1CE6CA511736682D9A99D7F676E), compiling. 
+[2022.05.08-19.38.44:203][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:226][503]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: A9D0263CA58D0C03BCF4114C0D97ACB8F61148C1), compiling. 
+[2022.05.08-19.38.44:242][503]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:246][503]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 365D359D1D19D17A0F35C5E258F20FDF4D0B6EA6), compiling. 
+[2022.05.08-19.38.44:261][503]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:282][504]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 41B456167AD54A543AA0318A996A4CC86F054AB9), compiling. 
+[2022.05.08-19.38.44:298][504]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.44:303][504]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 55D41F455F52156AE50CBCB19EE5F5B54E367479), compiling. 
+[2022.05.08-19.38.44:332][505]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: A749FF2271C2CF628201C74BFC72843A4E27F516), compiling. 
+[2022.05.08-19.38.44:348][505]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: D500B077A27B69CDB4B1235E88746C180345061C), compiling. 
+[2022.05.08-19.38.44:672][506]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: A39E6CAFDAED5FB7E4C5F829664CB4E4A8DCD0EC), compiling. 
+[2022.05.08-19.38.44:689][506]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 601700F839368537DE4FCE331CCAED47FE608365), compiling. 
+[2022.05.08-19.38.45:370][507]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 07427F906558BA0693A5514A6F015B2AE5EF2AC3), compiling. 
+[2022.05.08-19.38.45:405][507]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E52A60EAF7FF2DDB733EF56B0129B54EF866E0C), compiling. 
+[2022.05.08-19.38.45:465][508]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EED1EE4B9F9345E356D782D7686234BF2F533F6), compiling. 
+[2022.05.08-19.38.45:487][508]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DC0A734A94073A91C7035B9960CA9BE3DEACABB), compiling. 
+[2022.05.08-19.38.45:534][509]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4686294B29FA9C10A329D530ADA9FFD199C4CD6F), compiling. 
+[2022.05.08-19.38.45:558][509]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08602D871DFEB357CCB7980A563D133467549077), compiling. 
+[2022.05.08-19.38.45:971][510]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AE05B675BCF992DF7247BEEC5B35E261CDB9904), compiling. 
+[2022.05.08-19.38.45:999][510]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 06B176A71DD14CAB51D84E56D9681418EF510A8C), compiling. 
+[2022.05.08-19.38.46:427][511]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA74F9E5181A3C209611AE54318D7950AE6C8B7), compiling. 
+[2022.05.08-19.38.46:457][511]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7FE86C9FB80C63C8F547DEA58F3E0EB6991F2AA7), compiling. 
+[2022.05.08-19.38.46:511][512]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D19DA2B3877921BFF72A92C0A8434CF12FA8536), compiling. 
+[2022.05.08-19.38.46:538][512]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: DD24CCEF56C5672B2790545B1CC30D5BB9A857AB), compiling. 
+[2022.05.08-19.38.46:583][513]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4917E39D16A90CC833D2A02EBA7A540D0A5A19A4), compiling. 
+[2022.05.08-19.38.46:626][513]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0627D1FC71945C735A8DDDAF7EB121EA3B4BA367), compiling. 
+[2022.05.08-19.38.47:036][514]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 70434E9E34D8AE1EFE9BA6FE40F59821CE5A69B7), compiling. 
+[2022.05.08-19.38.47:067][514]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: D34CA029A451664E21011F91833B9C1B28670440), compiling. 
+[2022.05.08-19.38.47:575][515]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer brb in PCD3D_SM5, Default, SM5 (DDC key hash: DB43674E77698AD7BD007B477112B3D286DE09A6), compiling. 
+[2022.05.08-19.38.47:590][515]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.47:595][515]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer brb in PCD3D_SM5, Default, SM5 (DDC key hash: AAEBA93A1F1372D7964A50CDA76F846ADB8EFF0F), compiling. 
+[2022.05.08-19.38.47:617][515]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.47:646][516]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer bronwer in PCD3D_SM5, Default, SM5 (DDC key hash: B748E68831E08F55DBEEC2091F129D30183311EF), compiling. 
+[2022.05.08-19.38.47:665][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.47:672][516]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer bronwer in PCD3D_SM5, Default, SM5 (DDC key hash: 09AD5CE64A8A2629E52026EBA3C483234AA99E20), compiling. 
+[2022.05.08-19.38.47:689][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.47:720][517]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer red in PCD3D_SM5, Default, SM5 (DDC key hash: 989DD224CE1EB235C84AFE40F1E453A07E17DB19), compiling. 
+[2022.05.08-19.38.47:786][517]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.47:791][517]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer red in PCD3D_SM5, Default, SM5 (DDC key hash: 03B5CDBA3F9E0D6D4724A3DEAB6E84C920866D74), compiling. 
+[2022.05.08-19.38.47:811][517]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.05.08-19.38.48:718][518]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: BA146CD12BB32B0730096986ABFC029914CB40BF), compiling. 
+[2022.05.08-19.38.48:745][518]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3365710FEE7FBD382A9348001EBD7087B5971D56), compiling. 
+[2022.05.08-19.38.48:878][519]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F37DA35087B97D62227296CF8C91BDB8C64E46E), compiling. 
+[2022.05.08-19.38.48:909][519]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: F6C34AEB1401DE3826E3205A6B311A46F4D98490), compiling. 
+[2022.05.08-19.38.49:339][520]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: E8EEC6C4453ABA5C8D21FBF5DAB433F48996A3D0), compiling. 
+[2022.05.08-19.38.49:356][520]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 15C4CB220F3DD65E1DFCBD4F085C1D1F94D9ABB6), compiling. 
+[2022.05.08-19.38.49:904][521]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 54441BF98CAEF39FA0064F69E3449BF162029F95), compiling. 
+[2022.05.08-19.38.50:004][521]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 67C4DD2EB726CEC651703C53664BED968D790A78), compiling. 
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2022.05.08-19.39.28:907][522]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Total job queries 138, among them cache hits 0 (0.00%)
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 45 distinct outputs (56.25%)
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: RAM used: 0.25 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.05.08-19.39.28:908][522]LogShaderCompilers: Display: ================================================
+[2022.05.08-19.39.51:969][568]LogUObjectHash: Compacting FUObjectHashTables data took  17.02ms
+[2022.05.08-19.45.20:673][655]LightingResults: Warning: cabinatelongnew__1_ Object has overlapping UVs.
+[2022.05.08-19.45.20:673][655]LightingResults: cabinatelongnew__1_ Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.45.32:939][691]LightingResults: Warning: Drawers__1_ Object has overlapping UVs.
+[2022.05.08-19.45.32:939][691]LightingResults: Drawers__1_ Lightmap UV are overlapping by 2.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.46.42:784][896]LightingResults: Warning: cabinatelongnew__1_ Object has overlapping UVs.
+[2022.05.08-19.46.42:784][896]LightingResults: cabinatelongnew__1_ Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.47.24:733][ 15]LightingResults: Warning: cabinatelongnew__1_ Object has overlapping UVs.
+[2022.05.08-19.47.24:733][ 15]LightingResults: cabinatelongnew__1_ Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.47.25:417][ 17]LightingResults: Warning: cabinatelongnew__1_ Object has overlapping UVs.
+[2022.05.08-19.47.25:417][ 17]LightingResults: cabinatelongnew__1_ Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.47.25:751][ 18]LightingResults: Warning: cabinatelongnew__1_ Object has overlapping UVs.
+[2022.05.08-19.47.25:751][ 18]LightingResults: cabinatelongnew__1_ Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.50.35:411][576]LightingResults: Warning: Drawers__1_ Object has overlapping UVs.
+[2022.05.08-19.50.35:412][576]LightingResults: Drawers__1_ Lightmap UV are overlapping by 2.9%. Please adjust content - Enable Error Coloring to visualize.
+[2022.05.08-19.51.25:355][723]Job is a success!
+[2022.05.08-19.51.27:248][724]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 1.221s
+[2022.05.08-19.51.27:248][724]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2022.05.08-19.51.27:248][724]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb (trimmed 3.7Mb due to 0.010000 MinBrickError)
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:          0: 4.1% covering 100.0% of volume
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:          1: 32.1% covering 12.3% of volume
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:          2: 63.8% covering 0.4% of volume
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.08-19.51.27:249][724]LogVolumetricLightmapImport:          HospitalNew 			 196 bricks 	 100.0% (Persistent Level)
+[2022.05.08-19.51.30:125][724]LightingResults: Warning: SpotLight79 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight66 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight12_6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight28 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:126][724]LightingResults: Warning: SpotLight67 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight19 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight72 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight68 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight29 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:127][724]LightingResults: Warning: SpotLight69 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight90 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight26 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight31 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight74_7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight35_21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight34 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight91 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight41 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight39 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight52 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight121 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight138 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:128][724]LightingResults: Warning: SpotLight142 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight93 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight71 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight48 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight73 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight62 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight96 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight42 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight97 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight133 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight115 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight43 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight135 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:129][724]LightingResults: Warning: SpotLight134 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight46 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight64 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight38 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight44 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight45 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight141 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight143 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight75 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight76 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight131 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:130][724]LightingResults: Warning: SpotLight77 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight58 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight49 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight80 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight84 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight81_32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight82_35 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight88 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight55 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight150 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight118 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight92 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:131][724]LightingResults: Warning: SpotLight126 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight151 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight123 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight129 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight2_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight114 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight130 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight113_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight145 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight149 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:132][724]LightingResults: Warning: SpotLight107_21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:133][724]LightingResults: Warning: SpotLight61 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:133][724]LightingResults: Warning: SpotLight94 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:133][724]LightingResults: Warning: SpotLight101 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.30:133][724]LightingResults: Warning: SpotLight108_23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.08-19.51.45:231][724]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:232][724]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:232][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:232][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:232][724]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:232][724]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:232][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:232][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:233][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:234][724]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:234][724]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:234][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:234][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:234][724]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:234][724]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:234][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:234][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:235][724]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:235][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:235][724]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:235][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:235][724]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:235][724]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:235][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:236][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:236][724]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:236][724]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:236][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:236][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:236][724]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:236][724]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:236][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:237][724]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:237][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:237][724]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:237][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.45:237][724]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 1024X1024)
+[2022.05.08-19.51.45:238][724]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 1024X1024)
+[2022.05.08-19.51.45:238][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.08-19.51.45:238][724]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.08-19.51.46:052][724]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.05.08-19.51.46:052][724]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.05.08-19.51.46:852][724]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.05.08-19.51.46:852][724]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2022.05.08-19.51.47:582][724]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2022.05.08-19.51.47:582][724]Lightmass on DESKTOP-GI7I3CH: 11:46 min total, 2.63 sec importing, 4.44 sec setup, 4:23 min photons, 7:15 min processing, 0 ms extra exporting [1783/1783 mappings]. Threads: 29:03 min total, 20:14 min processing.
+[2022.05.08-19.51.47:611][724]LogStaticLightingSystem: HospitalNew_BuiltData storing lightmap data for 1783 meshes in 35 LightmapResourceClusters (50.9 Meshes per cluster).
+[2022.05.08-19.51.48:642][724]LogUObjectHash: Compacting FUObjectHashTables data took  10.72ms
+[2022.05.08-19.51.48:821][724]LogStaticLightingSystem: Illumination: 13:17 min (15.1 sec encoding lightmaps, 2.16 sec encoding shadowmaps)
+[2022.05.08-19.51.48:821][724]LogStaticLightingSystem: Lightmap texture memory:  28.0 MB (28.0 MB streaming, 0.0 MB non-streaming), 28 textures
+[2022.05.08-19.51.48:821][724]LogStaticLightingSystem: Shadowmap texture memory: 26.7 MB (26.7 MB streaming, 0.0 MB non-streaming), 5 textures
+[2022.05.08-19.51.54:190][724]DumpUnbuiltLightIteractions
+[2022.05.08-19.51.54:190][724]Lights with unbuilt interactions: 0
+[2022.05.08-19.51.54:190][724]
+[2022.05.08-19.51.54:191][724]Primitives with unbuilt interactions: 0
+[2022.05.08-19.51.54:233][724]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.08-19.51.54:233][724]LogShaderCompilers: Display: Total job queries 138, among them cache hits 0 (0.00%)
+[2022.05.08-19.51.54:233][724]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 45 distinct outputs (56.25%)
+[2022.05.08-19.51.54:233][724]LogShaderCompilers: Display: RAM used: 0.25 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.05.08-19.51.54:234][724]LogShaderCompilers: Display: ================================================
+[2022.05.08-19.51.54:508][725]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.08-19.51.54:509][725]MapCheck: New page: HospitalNew - 8 May 2022, 21:51:54
+[2022.05.08-19.51.54:511][725]MapCheck: Warning: floorbasic_17 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:511][725]MapCheck: Warning: floorbasic2 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic3 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic4 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic5 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic6 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic7 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic8 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic9 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:512][725]MapCheck: Warning: floorbasic10 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic11 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic12 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic13 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic14 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic15 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:513][725]MapCheck: Warning: floorbasic16 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:518][725]MapCheck: Warning: cabinatelongnew_25 Static mesh actor has NULL StaticMesh property 
+[2022.05.08-19.51.54:526][725]MapCheck: Map check complete: 0 Error(s), 17 Warning(s), took 17.984ms to complete.
+[2022.05.08-19.52.04:458][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.05.08-19.52.05:844][754]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/HospitalNew_Auto24E7025EE4F176D9C5F71ED893E373266.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/Autosaves/Game/BensModels/HospitalNew_Auto2.umap'
+[2022.05.08-19.52.05:850][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BensModels/HospitalNew' took 1.439
+[2022.05.08-19.52.05:850][754]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.439
+[2022.05.08-19.54.52:216][464]LogSlate: Window 'Message Log' being destroyed
+[2022.05.08-19.54.52:231][464]LogSlate: Window 'Message Log' being destroyed
+[2022.05.08-19.54.54:318][475]LogEditorViewport: Clicking on Actor (LMB): Hello1_C (Hello1)
+[2022.05.08-19.55.01:193][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.08-19.55.01:445][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.08-19.55.02:682][621]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/HospitalNewEA31D34D4BEFD1E4FD3396AFADF3D5E9.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/BensModels/HospitalNew.umap'
+[2022.05.08-19.55.02:697][621]LogFileHelpers: Saving map 'HospitalNew' took 1.316
+[2022.05.08-19.55.10:067][621]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/HospitalNew_BuiltDataE532F4134F65DF82C912CBB52961A154.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/BensModels/HospitalNew_BuiltData.uasset'
+[2022.05.08-19.55.10:113][621]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-19.55.10:113][621]LogContentValidation: Display: Validating World /Game/BensModels/HospitalNew.HospitalNew
+[2022.05.08-19.55.10:113][621]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BensModels/HospitalNew_BuiltData.HospitalNew_BuiltData
+[2022.05.08-19.56.11:981][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.05.08-19.56.12:177][982]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Blueprints/Menus/gamestart/Start.Start
+[2022.05.08-19.56.12:178][982]LightingResults: New page: Lighting Build
+[2022.05.08-19.56.12:178][982]LoadErrors: New page: Loading map: Start.umap
+[2022.05.08-19.56.12:258][982]LogWorld: UWorld::CleanupWorld for HospitalNew, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-19.56.12:259][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-19.56.12:260][982]MapCheck: New page: Map Check
+[2022.05.08-19.56.12:261][982]LightingResults: New page: Lighting Build
+[2022.05.08-19.56.12:344][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-19.56.12:379][982]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
+[2022.05.08-19.56.12:418][982]LogAudio: Display: Audio Device (ID: 1) registered with world 'Start'.
+[2022.05.08-19.56.12:487][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.08-19.56.12:487][982]LogAIModule: Creating AISystem for world Start
+[2022.05.08-19.56.12:565][982]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2022.05.08-19.56.12:588][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.08-19.56.12:589][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.478ms to complete.
+[2022.05.08-19.56.12:589][982]LogFileHelpers: Loading map 'Start' took 0.412
+[2022.05.08-19.56.20:861][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2022.05.08-19.57.25:538][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.08-19.57.26:730][439]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.57.26:730][439]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:228][259]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.05.08-19.59.32:447][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:447][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:448][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:448][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:560][259]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2022.05.08-19.59.32:579][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:581][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:650][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:652][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:652][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:652][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:652][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:652][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:653][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.32:653][259]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-19.59.33:125][259]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter16079DEE4B987A7AEDFB98B996C9124E.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.05.08-19.59.33:146][259]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.05.08-19.59.33:146][259]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.08-20.00.30:862][737]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.05.08-20.00.31:048][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:048][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:048][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:048][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:151][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2022.05.08-20.00.31:171][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:173][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:173][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:174][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:174][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:174][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:175][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:175][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:244][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:246][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:246][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:246][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:246][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:246][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:247][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:247][737]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2022.05.08-20.00.31:729][737]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter844C3B6D437707CC3F1365A51DACF7C8.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
+[2022.05.08-20.00.31:751][737]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.05.08-20.00.31:751][737]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.08-20.06.43:022][810]LogTemp: Repeating last play command: Standalone Game
+[2022.05.08-20.06.43:112][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2022.05.08-20.08.34:769][221]LogTemp: Repeating last play command: Standalone Game
+[2022.05.08-20.08.35:008][221]LogUObjectHash: Compacting FUObjectHashTables data took  17.66ms
+[2022.05.08-20.09.15:609][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.08-20.09.59:491][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:502][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:503][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:503][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:504][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:504][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:504][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:504][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:504][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:506][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:516][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:520][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:521][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:522][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.09.59:523][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP'
+[2022.05.08-20.10.02:214][895]LogSavePackage: Moving '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Saved/FirstPersonCharacter91875E48456C04C0B24D62B113625A34.tmp' to '../../../../../../Users/matsh/Documents/Unreal Projects/BigkennethYr2FMP/Bigkenneth/Content/FirstPersonBP/Blueprints/Starter/FirstPersonCharacter.uasset'
